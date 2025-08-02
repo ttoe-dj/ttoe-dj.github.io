@@ -174,8 +174,6 @@ exclude:
   - _pages/teaching.md    
   - _pages/dropdown.md
   - _pages/profiles.md
-  - _pages/cv.md
-  - assets/json/resume.json
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
