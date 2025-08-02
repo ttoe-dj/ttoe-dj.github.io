@@ -24,5 +24,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your about here
+This site is about physical theories of everything, as a continuation of my [PhD study](http://hdl.handle.net/10012/19734) on this topic.
 
