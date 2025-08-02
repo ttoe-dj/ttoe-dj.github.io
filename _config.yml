@@ -171,7 +171,9 @@ include: ["_pages", "_scripts"]
 exclude:
   - _pages/repositories.md
   - _includes/repository/  
-  - _pages/teaching.md
+  - _pages/teaching.md    
+  - _pages/dropdown.md
+  - _pages/profiles.md
   - assets/json/resume.json
   - bin/
   - CONTRIBUTING.md
