@@ -84,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: ttoe # blog_name will be displayed in your blog page
-blog_description: betting about fundamental physics since antiquity
+blog_description: shut up and bet
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
