@@ -26,16 +26,6 @@ latest_posts:
 
 This site is about physical theories of everything, as a continuation of my [PhD study](http://hdl.handle.net/10012/19734).
 
-<details markdown="1">
-<summary>Methodology</summary>
-
-#### Title
-This is the content.
-- List item 1
-- List item 2
-
-</details>
-
 ___
 
 <details>
