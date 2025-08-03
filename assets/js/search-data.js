@@ -10,18 +10,11 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-clues",
-          title: "clues",
+          title: "Clues",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/clues/";
-          },
-        },{id: "nav-posts",
-          title: "posts",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/posts/index.html";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-posts",
+          title: "posts",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/posts/index.html";
           },
         },{id: "nav-projects",
           title: "projects",
