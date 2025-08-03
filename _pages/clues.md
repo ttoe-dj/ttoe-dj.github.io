@@ -5,6 +5,7 @@ title: clues
 description: 
 nav: true
 nav_order: 2
+tabs: true
 ---
 
 ## Tabs for something else
