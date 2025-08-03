@@ -26,6 +26,12 @@ latest_posts:
 
 This site is about physical theories of everything, as a continuation of my [PhD study](http://hdl.handle.net/10012/19734).
 
+
+#### Credence
+
+What's the correct approach to quantum gravity? No one knows for sure.
+
+
 <details>
 
 <summary>Scope</summary>
