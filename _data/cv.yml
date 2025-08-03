@@ -15,6 +15,12 @@
       description:
         - Thesis - <a href="http://hdl.handle.net/10012/19734">Toward a theory of everything</a>.
         - Advisors - Lucien Hardy & Achim Kempf
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Independent research
+      year: 2023 -
         
 - title: Publications
   type: nested_list
