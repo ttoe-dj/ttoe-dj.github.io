@@ -28,6 +28,36 @@ This site is about physical theories of everything, as a continuation of my [PhD
 
 ___
 
+<details markdown=1><summary markdown="span">Our summary here</summary>
+
+our markdown text here : 
+```bash
+echo "Hello markdown"
+``'
+
+- markdown1
+- markdown2
+- markdown3
+
+html tags also supported
+<ol>
+<li> hello html list tag1</li>
+<li> hello html list tag2</li>
+</ol>
+
+</details>
+
+<details>
+  <summary><strong>A strong summary</strong></summary>
+  <div markdown=1>
+
+This is fine:
+  * first
+  * second
+
+  </div>
+</details>
+
 <details>
 
 <summary>Scope</summary>
