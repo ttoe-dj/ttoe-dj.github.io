@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Waterloo, Ontario, Canada
+      institution: University of Waterloo & Perimeter Institute for Theoretical Physics, Ontario, Canada
       year: 2023
       description:
         - Thesis - <a href="http://hdl.handle.net/10012/19734">Toward a theory of everything</a>.
@@ -19,17 +19,5 @@
 - title: Publications
   type: nested_list
   contents:
-    - title: See <a href="https://scholar.google.com/citations?hl=en&user=-dtm_74AAAAJ&view_op=list_works&sortby=pubdate">Google scholar profile</a> and <a href="https://www.researchgate.net/profile/Ding-Jia-6">ResearchGate profile</a>
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: See my <a href="https://scholar.google.com/citations?hl=en&user=-dtm_74AAAAJ&view_op=list_works&sortby=pubdate">Google scholar profile</a> and <a href="https://www.researchgate.net/profile/Ding-Jia-6">ResearchGate profile</a>.
 
