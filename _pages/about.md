@@ -26,36 +26,9 @@ latest_posts:
 
 This site is about physical theories of everything, as a continuation of my [PhD study](http://hdl.handle.net/10012/19734).
 
-<details>
-  <summary><strong>A strong summary</strong></summary>
-  <div markdown=1>
-
-This is fine:
-  * first
-  * second
-
-  </div>
-</details>
-
-<details markdown=1><summary markdown="span">Our summary here</summary>
-
-- markdown1
-- markdown2
-- markdown3
-
-html tags also supported
-<ol>
-<li> hello html list tag1</li>
-<li> hello html list tag2</li>
-</ol>
-
-</details>
-
 ___
 
-<details>
-
-<summary>Scope</summary>
+<details markdown=1><summary markdown="span">Scope</summary>
 
 I take a theory of everything to contain at least the following components: 
 
