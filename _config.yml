@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: ttoe # blog_name will be displayed in your blog page
 blog_description: dare to bet?
-permalink: /post/:year/:title/
+permalink: /posts/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -251,9 +251,9 @@ jekyll-archives:
   posts:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
     permalinks:
-      year: "/post/:year/"
-      tags: "/post/:type/:name/"
-      categories: "/post/:type/:name/"
+      year: "/posts/:year/"
+      tags: "/posts/:type/:name/"
+      categories: "/posts/:type/:name/"
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
