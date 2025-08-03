@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /clues/
 title: clues
 description: 
