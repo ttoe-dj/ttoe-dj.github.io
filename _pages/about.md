@@ -19,13 +19,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 This site is about physical theories of everything, as a continuation of my [PhD study](http://hdl.handle.net/10012/19734).
 
+___
 
 #### Credence
 
@@ -50,6 +51,8 @@ How to derive empirical predictions given the dynamical laws and bounary conditi
 The first topic is studied in **particle physics** and **quantum gravity**, the second in **quantum cosmology**, and the third in **quantum foundations**. These delinate the scope of this site subject-wise.
 
 </details>
+
+___
 
 <details>
 
