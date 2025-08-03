@@ -44,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-videos",
+        },{id: "post-does-decoherence-imply-branching-wallace-2012",
         
-          title: "a post with videos",
+          title: "Does decoherence imply branching? (Wallace 2012)",
         
-        description: "this is what included videos could look like",
+        description: "",
         section: "Posts",
         handler: () => {
           
