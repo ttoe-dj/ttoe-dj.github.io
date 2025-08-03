@@ -59,9 +59,9 @@ How to proceed facing difficult questions like this? Write down possibilities; a
 
 #### Priority
 
-What clues to prioritize for discovery? Those that change credences most. E.g., a no-go result that rules out an otherwise promising approach.
+What clues to prioritize for discovery? Those that change credences most. E.g., a result that rules out an otherwise promising approach.
 
-What projects to avoid when planning? Those that change credences least. E.g., rule out an approach a second time.
+What projects to avoid when planning? Those that change credences least. E.g., trying to promote a ruled-out approach without addressing the issue.
 
 #### Links
 
