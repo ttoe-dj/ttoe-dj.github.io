@@ -28,24 +28,22 @@ This site is about physical theories of everything, as a continuation of my [PhD
 
 ___
 
-#### Credence
-
-What's the correct approach to quantum gravity? No one knows for sure.
-
-
 <details>
 
 <summary>Scope</summary>
 
 I take a theory of everything to contain at least the following components: 
 
-#### 1. Dynamical law
+1. Dynamical law
+
 What variables to use to describe the physical universe? What laws govern them?
 
-#### 2. Boundary condition
+2. Boundary condition
+
 What boundary condition to apply to in conjunction with the dynamical laws?
   
-#### 3. Empirical prescription
+3. Empirical prescription
+
 How to derive empirical predictions given the dynamical laws and bounary condition?
 
 The first topic is studied in **particle physics** and **quantum gravity**, the second in **quantum cosmology**, and the third in **quantum foundations**. These delinate the scope of this site subject-wise.
