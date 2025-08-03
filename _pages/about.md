@@ -30,11 +30,6 @@ ___
 
 <details markdown=1><summary markdown="span">Our summary here</summary>
 
-our markdown text here : 
-```bash
-echo "Hello markdown"
-``'
-
 - markdown1
 - markdown2
 - markdown3
