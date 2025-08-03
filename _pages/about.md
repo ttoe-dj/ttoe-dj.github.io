@@ -30,15 +30,45 @@ This site is about physical theories of everything, as a continuation of my [PhD
 
 <summary>Scope</summary>
 
+<br/>
+
 I take a theory of everything to contain at least the following components: 
 
 #### 1. Dynamical law
-What variables to use to describe the physical universe? What laws govern them? These are some main topics of **particle physics** and **quantum gravity**.
+What variables to use to describe the physical universe? What laws govern them?
 
 #### 2. Boundary condition
-What boundary conditions to apply to in conjunction with the dynamical laws? This is a major topic of **quantum cosmology.**
+What boundary condition to apply to in conjunction with the dynamical laws?
   
 #### 3. Empirical prescription
-How to derive empirical predictions given the dynamical laws and bounary condition? This question is difficult in quantum physics because of the measurement problem, which is a major topic of **quantum foundations**.
+How to derive empirical predictions given the dynamical laws and bounary condition?
+
+The first topic is studied in **particle physics** and **quantum gravity**, the second in **quantum cosmology**, and the third in **quantum foundations**. These delinate the scope of this site subject-wise.
 
 </details>
+
+<details>
+
+<summary>Methodology</summary>
+
+#### Credence
+
+What's the correct approach to quantum gravity? No one knows for sure.
+
+How to proceed facing difficult questions like this? Write down possibilities; assign credences based on current clues; discover new clues; update credences; repeat till the answer is clear.
+
+#### Priority
+
+What clues to prioritize for discovery? Those that change credences most. E.g., a no-go result that rules out an otherwise promising approach.
+
+What projects to avoid when planning? Those that change credences least. E.g., rule out an approach a second time.
+
+#### Links
+
+[[prediction markets link]]
+
+[[bullshit in physics link]]
+
+</details>
+
+___
