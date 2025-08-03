@@ -63,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.location.href = "/post/2024/tabs/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
