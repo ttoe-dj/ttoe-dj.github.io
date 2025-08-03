@@ -30,21 +30,15 @@ This site is about physical theories of everything, as a continuation of my [PhD
 
 <summary>Scope</summary>
 
-I take a viable theory of everything to contain at least the following components: 
+I take a theory of everything to contain at least the following components: 
 
-<details>
-<summary>1. Dynamical laws</summary>
-Part of the task is to identify the correct physical degrees of freedom, while part of it is to find the correct dynamical laws governing those degrees of freedom. In contemporary physics, these are the main topics of particle physics and quantum gravity.
-<details>
+#### 1. Dynamical law
+What variables to use to describe the physical universe? What laws govern them? These are some main topics of **particle physics** and **quantum gravity**.
 
-<details>
-<summary>2. Boundary conditions</summary>
-The dynamical laws must be supplied with boundary conditions toward making predictions. In contemporary physics, the study of boundary conditions is a main topic of (quantum) cosmology.
-<details>
+#### 2. Boundary condition
+What boundary conditions to apply to in conjunction with the dynamical laws? This is a major topic of **quantum cosmology.**
   
-<details>
-<summary>3. Empirical prescriptions</summary>
-To qualify as a theory of everything, the theory must offer an unambiguous prescription for extracting empirical predictions. This task is non-trivial in quantum theories because of the measurement problem. In contemporary physics, the measurement problem is a main topic of quantum foundations.
-<details>
+#### 3. Empirical prescription
+How to derive empirical predictions from the physical theory? This question is difficult in quantum physics because of the measurement problem, which is a major topic of **quantum foundations**.
 
-<details>
+</details>
