@@ -1,30 +1,36 @@
 ---
 layout: page
 permalink: /clues/
-title: clues
+title: Clues
 description: 
 nav: true
 nav_order: 1
 tabs: true
 ---
 
-## Tabs for something else
+# Dynamical laws
 
-{% tabs something-else %}
+## Quantum gravity
 
-{% tab something-else text %}
+### Framework
+
+Which theoretical framework will the correct theory of gravity be based in?
+
+{% tabs framework %}
+
+{% tab framework path integral %}
 
 Regular text
 
 {% endtab %}
 
-{% tab something-else quote %}
+{% tab framework Wheeler-DeWitt equation %}
 
 > A quote
 
 {% endtab %}
 
-{% tab something-else list %}
+{% tab framework Schrödinger equation %}
 
 Hipster list
 
@@ -32,6 +38,14 @@ Hipster list
 - fixie
 - raybans
 - messenger bag
+
+{% endtab %}
+
+{% tab framework algebraic quantum theory %}
+
+{% endtab %}
+
+{% tab framework not quantum theory %}
 
 {% endtab %}
 
