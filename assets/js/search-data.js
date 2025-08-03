@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-does-decoherence-imply-branching-wallace-2012",
+        
+          title: "Does decoherence imply branching? (Wallace 2012)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/wallace2012/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
