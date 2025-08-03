@@ -36,8 +36,6 @@ What's the correct approach to quantum gravity? No one knows for sure.
 
 <summary>Scope</summary>
 
-<br/>
-
 I take a theory of everything to contain at least the following components: 
 
 #### 1. Dynamical law
