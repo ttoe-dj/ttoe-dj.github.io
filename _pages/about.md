@@ -26,13 +26,21 @@ latest_posts:
 
 This site is about physical theories of everything, as a continuation of my [PhD study](http://hdl.handle.net/10012/19734).
 
+<details markdown="1">
+<summary>Methodology</summary>
+
+#### Title
+This is the content.
+- List item 1
+- List item 2
+
+</details>
+
 ___
 
 <details>
 
 <summary>Scope</summary>
-
-<div markdown="1">
 
 I take a theory of everything to contain at least the following components: 
 
@@ -49,8 +57,6 @@ What boundary condition to apply to in conjunction with the dynamical laws?
 How to derive empirical predictions given the dynamical laws and bounary condition?
 
 The first topic is studied in **particle physics** and **quantum gravity**, the second in **quantum cosmology**, and the third in **quantum foundations**. These delinate the scope of this site subject-wise.
-
-</div>
 
 </details>
 
