@@ -39,6 +39,6 @@ What variables to use to describe the physical universe? What laws govern them? 
 What boundary conditions to apply to in conjunction with the dynamical laws? This is a major topic of **quantum cosmology.**
   
 #### 3. Empirical prescription
-How to derive empirical predictions from the physical theory? This question is difficult in quantum physics because of the measurement problem, which is a major topic of **quantum foundations**.
+How to derive empirical predictions given the dynamical laws and bounary condition? This question is difficult in quantum physics because of the measurement problem, which is a major topic of **quantum foundations**.
 
 </details>
