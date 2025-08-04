@@ -124,7 +124,7 @@ ninja.data = [{
           title: 'Who’s afraid of infinite action?',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/test/";
+              window.location.href = "/works/whos-afraid-of-infinite-action/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
