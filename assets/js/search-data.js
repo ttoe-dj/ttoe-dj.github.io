@@ -63,6 +63,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/posts/2025/Hartle2013/";
+          
+        },
+      },{id: "post-does-decoherence-imply-branching-wallace-2012",
+        
+          title: "Does decoherence imply branching? (Wallace 2012)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/posts/2025/Wallace2012/";
           
         },
