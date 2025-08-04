@@ -124,6 +124,11 @@ ninja.data = [{
           title: 'Who’s afraid of infinite action?',
           description: "",
           section: "Works",handler: () => {
+              window.location.href = "/works/whos-afraid-of-infinite-action%20copy/";
+            },},{id: "works-who-s-afraid-of-infinite-action",
+          title: 'Who’s afraid of infinite action?',
+          description: "",
+          section: "Works",handler: () => {
               window.location.href = "/works/whos-afraid-of-infinite-action/";
             },},{
       id: 'light-theme',
