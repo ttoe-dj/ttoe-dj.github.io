@@ -120,8 +120,8 @@ ninja.data = [{
           description: "description",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "works-the-godfather",
-          title: 'The Godfather',
+            },},{id: "works-who-s-afraid-of-infinite-action",
+          title: 'Who’s afraid of infinite action?',
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/test/";
