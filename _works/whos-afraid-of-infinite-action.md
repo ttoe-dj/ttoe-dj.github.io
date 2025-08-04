@@ -1,13 +1,11 @@
 ---
-layout: book-review
+layout: work-page
 title: Who’s afraid of infinite action?
 author: Ding Jia
 date: 2025-07-04
 cover: assets/img/covers/2025_DL_BC_whos-action_v1.0_preview_202574.jpeg
 categories: article
 tags: black hole, cosmology, finite action, Lorentzian quantum gravity, path integral, quantum gravity, singularity
-buy_link: https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592
-released: 2025
 ---
 
 ##### Description
