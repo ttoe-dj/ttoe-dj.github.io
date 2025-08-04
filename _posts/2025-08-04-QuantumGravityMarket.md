@@ -7,4 +7,4 @@ tags: gravity
 categories: prediction-market
 ---
 
-<iframe src="https://manifold.markets/embed/ttoe/which-approaches-will-lead-to-a-via" title="Which approach(es) will lead to a viable theory of quantum gravity?" frameborder="0" style="width:90%; max-width: 35rem;"></iframe>
+<iframe src="https://manifold.markets/embed/ttoe/which-approaches-will-lead-to-a-via" title="Which approach(es) will lead to a viable theory of quantum gravity?" frameborder="0" style="width:90%; height:18rem; max-width: 35rem;"></iframe>
