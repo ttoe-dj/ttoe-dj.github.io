@@ -46,7 +46,7 @@ What boundary condition to apply to in conjunction with the dynamical laws?
 
 How to derive empirical predictions given the dynamical laws and bounary condition?
 
-The first topic is studied in **particle physics** and **quantum gravity**, the second in **quantum cosmology**, and the third in **quantum foundations**. These delinate the scope of this site subject-wise.
+The first topic is studied in particle physics and quantum gravity, the second in quantum cosmology, and the third in quantum foundations. These delinate the scope of this site subject-wise.
 
 </details>
 
