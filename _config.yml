@@ -251,7 +251,7 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["quantum", "gravity", "experience", "singularity", "boundary-condition"] # these tags will be displayed on the front page of your blog
-display_categories: ["bullshit-in-physics"] # these categories will be displayed on the front page of your blog
+display_categories: ["bullshit-in-physics", "prediction-markets"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
