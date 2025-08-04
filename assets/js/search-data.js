@@ -120,6 +120,11 @@ ninja.data = [{
           description: "description",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "works-nonsmooth-mechanics-for-general-relativity",
+          title: 'Nonsmooth mechanics for general relativity',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/nonsmooth-mechanics-for-general-relativity/";
             },},{id: "works-who-s-afraid-of-infinite-action",
           title: 'Who’s afraid of infinite action?',
           description: "",
