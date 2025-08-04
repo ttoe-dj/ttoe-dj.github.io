@@ -5,7 +5,7 @@ author: Ding Jia
 date: 2025-06-23
 cover: assets/img/covers/2025_DL_BC_nonsmooth-relativity_v1.0_preview_2025622.jpeg
 categories: article
-tags: black hole, bouncing cosmology, Lorentzian path integral, nonsmooth mechanics, quantum gravity, singularity
+tags: black-hole bouncing-cosmology Lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
 ---
 
 ##### Description
@@ -30,4 +30,4 @@ Click the button below to purchase the full paper (the cost covers the current a
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
 
-<a href="https://payhip.com/b/o8L1D" class="payhip-buy-button" data-theme="green" data-product="o8L1D">Purchase</a>
+<a href="https://payhip.com/b/o8L1D" class="payhip-buy-button" data-theme="green" data-product="o8L1D">Buy Now</a>

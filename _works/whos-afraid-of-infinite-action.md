@@ -5,7 +5,7 @@ author: Ding Jia
 date: 2025-07-04
 cover: assets/img/covers/2025_DL_BC_whos-action_v1.0_preview_202574.jpeg
 categories: article
-tags: black hole, cosmology, finite action, Lorentzian quantum gravity, path integral, quantum gravity, singularity
+tags: black-hole cosmology finite-action Lorentzian-quantum-gravity path-integral quantum-gravity singularity
 ---
 
 ##### Description
@@ -30,4 +30,4 @@ Click the button below to purchase the full paper (the cost covers the current a
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
 
-<a href="https://payhip.com/b/Z4WXI" class="payhip-buy-button" data-theme="green" data-product="Z4WXI">Purchase</a>
+<a href="https://payhip.com/b/Z4WXI" class="payhip-buy-button" data-theme="green" data-product="Z4WXI">Buy Now</a>
