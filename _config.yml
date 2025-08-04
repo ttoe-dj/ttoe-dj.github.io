@@ -135,6 +135,8 @@ newsletter:
 collections:
   books:
     output: true
+  works:
+    output: true
   news:
     defaults:
       layout: post
@@ -202,7 +204,6 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-terser
@@ -247,6 +248,8 @@ jekyll-archives:
       year: "/posts/:year/"
       tags: "/posts/:type/:name/"
       categories: "/posts/:type/:name/"
+  works:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
