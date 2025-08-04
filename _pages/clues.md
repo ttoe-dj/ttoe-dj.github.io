@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-Here are some clues I use to update my personal credences on topics associated with theories of everything. Positive/negative clues are labeled by +/- marks. The more marks, the stronger the clue.
+Here are some clues I use to update my personal credences on topics associated with theories of everything. Positive/negative clues are labeled by +/-; the more marks, the more it affects my credence.
 
 #### Quantum gravity
 
@@ -32,7 +32,7 @@ Which theoretical framework would the correct theory of gravity be based in?
 {% tab framework Wheeler-DeWitt equation %}
 
 - Seems impractical for accommodating matter fields of the Standard Model. (-)
-- How to extract empirical predictions from $$\psi$$ that obeys the Wheeler-DeWitt equation? Converse, would the mathematical object actually useful for extracting empirical predictions obey the Wheeler-DeWitt equation? (--)
+- How to extract empirical predictions from $$\psi$$ that obeys the Wheeler-DeWitt equation? Converse, would the mathematical object actually useful for extracting empirical predictions obey the Wheeler-DeWitt equation? (- -)
 - The Wheeler-DeWitt equation would not hold if the lapse is positive for our universe (see, e.g., Section IV.A of [Ref](https://doi.org/10.1103/PhysRevD.43.1170)). (-)
 
 {% endtab %}
@@ -40,19 +40,19 @@ Which theoretical framework would the correct theory of gravity be based in?
 {% tab framework Schrödinger equation %}
 
 - Seems impractical for accommodating matter fields of the Standard Model. (-)
-- Still works if spacetimes in superposition do not follow a common time foliation? (--)
+- Still works if spacetimes in superposition do not follow a common time foliation? (- -)
 
 {% endtab %}
 
 {% tab framework algebraic quantum theory %}
 
-- What replaces the microcausality axiom when spacetimes are allowed in superposition? (--)
+- What replaces the microcausality axiom when spacetimes are allowed in superposition? (- -)
 
 {% endtab %}
 
 {% tab framework not quantum theory %}
 
-- Unclear if any non-quantum framework reproduces the success of the quantum framework for the Standard Model of particle physcics. (--)
+- Unclear if any non-quantum framework reproduces the success of the quantum framework for the Standard Model of particle physcics. (- -)
 
 {% endtab %}
 
