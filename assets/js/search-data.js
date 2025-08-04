@@ -120,6 +120,11 @@ ninja.data = [{
           description: "description",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "works-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/test/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
