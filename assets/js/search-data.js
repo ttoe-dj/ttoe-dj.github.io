@@ -44,7 +44,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-prediction-market-which-approach-es-will-lead-to-a-viable-theory-of-quantum-gravity",
+        },{id: "post-fermion-requires-tetrad-rovelli-vidotto-2015",
+        
+          title: "Fermion requires tetrad? (Rovelli, Vidotto 2015)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Rovelli2015/";
+          
+        },
+      },{id: "post-lorentzian-quantum-cosmology-feldbrugge-lehners-turok-2017",
+        
+          title: "Lorentzian quantum cosmology? (Feldbrugge, Lehners, Turok 2017)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Feldbrugge2017/";
+          
+        },
+      },{id: "post-arrow-of-time-from-quantum-boundary-conditions-hartle-2013",
+        
+          title: "Arrow of time from quantum boundary conditions? (Hartle 2013)",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Hartle2013/";
+          
+        },
+      },{id: "post-prediction-market-which-approach-es-will-lead-to-a-viable-theory-of-quantum-gravity",
         
           title: "Prediction market - Which approach(es) will lead to a viable theory of quantum...",
         
@@ -53,17 +86,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/posts/2025/QuantumGravityMarket/";
-          
-        },
-      },{id: "post-does-decoherence-imply-branching-wallace-2012",
-        
-          title: "Does decoherence imply branching? (Wallace 2012)",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/posts/2025/Hartle2013/";
           
         },
       },{id: "post-does-decoherence-imply-branching-wallace-2012",
