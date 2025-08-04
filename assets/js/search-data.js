@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-does-decoherence-imply-branching-wallace-2012",
+        },{id: "post-which-approach-es-will-lead-to-a-viable-theory-of-quantum-gravity",
+        
+          title: "Which approach(es) will lead to a viable theory of quantum gravity?",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/QuantumGravityMarket/";
+          
+        },
+      },{id: "post-does-decoherence-imply-branching-wallace-2012",
         
           title: "Does decoherence imply branching? (Wallace 2012)",
         
