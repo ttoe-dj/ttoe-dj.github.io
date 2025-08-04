@@ -167,8 +167,6 @@ exclude:
   - _pages/teaching.md    
   - _pages/dropdown.md
   - _pages/profiles.md
-  - _bibliography/
-  - _pages/publications.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
