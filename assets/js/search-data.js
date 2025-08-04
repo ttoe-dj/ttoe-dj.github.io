@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-which-approach-es-will-lead-to-a-viable-theory-of-quantum-gravity",
+        },{id: "post-",
         
-          title: "Which approach(es) will lead to a viable theory of quantum gravity?",
+          title: "",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/posts/2025/QuantumGravityMarket/";
+            window.location.href = "/posts/2025/2025-08-04-QuantumGravityMarket/";
           
         },
       },{id: "post-does-decoherence-imply-branching-wallace-2012",
