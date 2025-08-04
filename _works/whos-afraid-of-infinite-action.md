@@ -23,7 +23,7 @@ Abstract: Dynamical solutions can generically be derived from the Euler-Lagrange
 
 ##### Access
 
-Instead of giving the copyright of the paper for free to a publisher, I sell this paper myself for profit. 
+Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
 Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.28431.09126) for a preview of the paper. 
 
