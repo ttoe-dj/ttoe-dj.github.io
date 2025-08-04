@@ -32,15 +32,15 @@ ___
 
 I take a theory of everything to contain at least the following components: 
 
-1. Dynamical law
+#### 1. Dynamical law
 
 What variables to use to describe the physical universe? What laws govern them?
 
-2. Boundary condition
+#### 2. Boundary condition
 
 What boundary condition to apply to in conjunction with the dynamical laws?
   
-3. Empirical prescription
+#### 3. Empirical prescription
 
 How to derive empirical predictions given the dynamical laws and bounary condition?
 
@@ -50,9 +50,7 @@ The first topic is studied in **particle physics** and **quantum gravity**, the 
 
 ___
 
-<details>
-
-<summary>Methodology</summary>
+<details markdown=1><summary markdown="span">Methodology</summary>
 
 #### Credence
 
