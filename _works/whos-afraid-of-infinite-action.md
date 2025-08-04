@@ -19,11 +19,15 @@ ___
 
 Version history:
 
--Original versions: Article v1.0
+- Original versions: Article v1.0
 
 ___
 
-Instead of giving the copyright of the paper for free to a publisher, I sell this paper myself for profit. Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.28431.09126) for a preview of the paper. Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
+Instead of giving the copyright of the paper for free to a publisher, I sell this paper myself for profit. 
+
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.28431.09126) for a preview of the paper. 
+
+Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
 
