@@ -30,6 +30,8 @@ ___
 
 <details markdown=1><summary markdown="span">Scope</summary>
 
+<br>
+
 I take a theory of everything to contain at least the following components: 
 
 #### 1. Dynamical law
