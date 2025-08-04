@@ -64,15 +64,15 @@ How to proceed facing difficult questions like this? Write down possibilities; a
 
 #### Priority
 
-What clues to prioritize for discovery? Those that change credences most. E.g., a result that rules out an otherwise promising approach.
+What clues to look for? Those that change credences most, e.g., accelerated expansion of the universe against AdS/CFT.
 
-What projects to avoid when planning? Those that change credences least. E.g., trying to promote a ruled-out approach without addressing the issue.
+What efforts to avoid? Those that do not change credences, e.g., publish on AdS/CFT because other people do, too.
 
-#### Links
+#### Tools
 
-[[prediction markets link]]
+I'm exploring the use of [prediction markets](https://ttoe-dj.github.io/posts/category/prediction-markets/) to facilitate the process.
 
-[[bullshit in physics link]]
+I also value [negative evidences](https://ttoe-dj.github.io/posts/category/bullshit-in-physics/) that help avoid wasteful efforts down wrong routes. 
 
 </details>
 
