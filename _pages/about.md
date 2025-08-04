@@ -30,7 +30,7 @@ ___
 
 <details markdown=1><summary markdown="span">Scope</summary>
 
-<br>
+<br/>
 
 I take a theory of everything to contain at least the following components: 
 
@@ -53,6 +53,8 @@ The first topic is studied in **particle physics** and **quantum gravity**, the 
 ___
 
 <details markdown=1><summary markdown="span">Methodology</summary>
+
+<br/>
 
 #### Credence
 
