@@ -55,17 +55,6 @@ ninja.data = [{
             window.location.href = "/posts/2025/Wallace2012/";
           
         },
-      },{id: "post-a-post-with-tabs",
-        
-          title: "a post with tabs",
-        
-        description: "this is what included tabs in a post could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/posts/2024/tabs/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
