@@ -28,10 +28,12 @@ In the understanding of this model, the life dynamics of living systems forms th
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.30830.73282) for a preview of the paper. 
+Visit the [ResearchGate page](https://www.researchgate.net/publication/386986492_Physics_Experience_Life_II_Quantum_toy_models_of_life) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
 
 <a href="https://payhip.com/b/rc9DK" class="payhip-buy-button" data-theme="green" data-product="rc9DK">Purchase full paper</a>
+
+http://dx.doi.org/10.13140/RG.2.2.30830.73282
