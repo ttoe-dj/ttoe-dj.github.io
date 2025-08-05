@@ -77,9 +77,9 @@ ninja.data = [{
             window.location.href = "/posts/2025/Hartle2013/";
           
         },
-      },{id: "post-prediction-market-which-approach-es-will-lead-to-a-viable-theory-of-quantum-gravity",
+      },{id: "post-which-approach-es-will-lead-to-a-viable-theory-of-quantum-gravity",
         
-          title: "Prediction market - Which approach(es) will lead to a viable theory of quantum...",
+          title: "Which approach(es) will lead to a viable theory of quantum gravity?",
         
         description: "",
         section: "Posts",
