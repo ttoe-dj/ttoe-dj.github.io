@@ -79,102 +79,63 @@ layout: default
 </div>
 
 <style>
-      figure {
-        float: none;
-        width: auto;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-
-      }
-      figure  > img {
-
-           vertical-align: top;
-           display: block;
-           margin-right: 0px;
-           margin-left: 0px;
-           padding: 0px;
-
-      }
-      figure figcaption {
-        display: block;
-        caption-side: bottom;
-        text-align: center;
-        max-width: 100%;     /* Ensures figcaption doesn't exceed the container width */
-        word-wrap: break-word;  /* Allows breaking long words */
-        overflow-wrap: break-word; /* Modern alternative for word wrapping */
-      }
-
-      @media screen and (min-width: 600px)  {
-
-        .empty-review{
-          float: left;
-          display: block; /* in-line block; */
-          margin: 0px 0px 0px 0px;  /* adjust as needed */
-          padding: 0px 0px 0px 20px;
-         /* top right bottom left */
-          }
-
-         .empty-review-caption {
-                  caption-side: left;
-                  text-align: left;
-
-
-                  }
-
-          .empty-review-cover {
-              width:250px;
-              vertical-align: top;
-              padding-right: 40px;
-              }
-
-          figure {
-
-                float: right;
-                display: in-line block; /* in-line block; */
-                margin: 0px 0px 0px 0px;  /* adjust as needed */
-                padding: 0px 0px 0px 20px;
-               /* top right bottom left */
-              }
-
-          figure img {
-                  width:400px;
-                  vertical-align: top;
-
-                }
-
-          figure figcaption {
-                  caption-side: bottom;
-                  text-align: left;
-
-                  }
-
-          .mobile-break { display: none; }
-      }
-
-  /* =Blockquote
-  -------------------------------------------------------------- */
-  blockquote {
-
-      position: relative;
-      marign: 0px;
-      display: table;
-
+  figure {
+    float: none;
+    display: block;
+    width: fit-content;
+    display: table; /* Fallback */
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
   }
-  blockquote:before, blockquote:after {
-
-   /* properties to format the block quotes /*
-
+  figure  > img {
+    vertical-align: top;
+    display: block;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
   }
-  blockquote:before {
-      top: 0;
-      left: 0;
-
-
+  figure figcaption {
+    display: block;
+    caption-side: bottom;
+    text-align: center;
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
-  blockquote:after {
-      top: 0;
-      right: 0;
 
+  @media screen and (min-width: 600px)  {
+    .empty-review{
+      float: left;
+      display: block;
+      margin: 0px;
+      padding: 0px 0px 0px 20px;
+    }
+    .empty-review-caption {
+      caption-side: left;
+      text-align: left;
+    }
+    .empty-review-cover {
+      width:250px;
+      vertical-align: top;
+      padding-right: 40px;
+    }
+    figure {
+      float: right;
+      display: inline-block; /* Fixed */
+      margin: 0px;
+      padding: 0px 0px 0px 20px;
+    }
+    figure img {
+      width:400px;
+      vertical-align: top;
+    }
+    figure figcaption {
+      caption-side: bottom;
+      text-align: left;
+    }
+    .mobile-break { display: none; }
   }
+
+  /* Keep existing blockquote styles */
 </style>
