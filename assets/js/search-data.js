@@ -125,8 +125,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boundary-condition/";
-            },},{id: "projects-updating-quantum-foundations",
-          title: 'Updating quantum foundations',
+            },},{id: "projects-refreshing-quantum-foundations",
+          title: 'Refreshing quantum foundations',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/foundations/";
