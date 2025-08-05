@@ -1,6 +1,6 @@
 ---    
 layout: work-page
-title: Lorentzian bouncing quantum cosmology: Bianchi I
+title: Lorentzian bouncing quantum cosmology - Bianchi I
 author: Ding Jia
 date: 2023-12-31
 cover: assets/img/covers/2023_DL-BC_Lorentzian-Bianchi-I_preview_20231231.jpeg

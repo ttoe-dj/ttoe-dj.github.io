@@ -1,6 +1,6 @@
 ---    
 layout: work-page
-title: Nonsmooth mechanics for cosmology: Biaxial Bianchi IX
+title: Nonsmooth mechanics for cosmology - Biaxial Bianchi IX
 author: Ding Jia
 date: 2025-05-31
 cover: assets/img/covers/2025_DL_BC_nonsmooth-ix_v1.0_preview_2025531.jpeg
