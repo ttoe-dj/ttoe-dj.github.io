@@ -97,10 +97,12 @@ layout: default
 
       }
       figure figcaption {
-
         display: block;
         caption-side: bottom;
         text-align: center;
+        max-width: 100%;     /* Ensures figcaption doesn't exceed the container width */
+        word-wrap: break-word;  /* Allows breaking long words */
+        overflow-wrap: break-word; /* Modern alternative for word wrapping */
       }
 
       @media screen and (min-width: 600px)  {
@@ -148,6 +150,7 @@ layout: default
                   }
 
           .mobile-break { display: none; }
+      }
 
   /* =Blockquote
   -------------------------------------------------------------- */
