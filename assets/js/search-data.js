@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -115,11 +115,31 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-boundary-condition",
+          title: 'Boundary condition',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/boundary-condition/";
+            },},{id: "projects-lorentzian-path-integrals",
+          title: 'Lorentzian path integrals',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lorentzian/";
+            },},{id: "projects-path-integral-measure",
+          title: 'Path integral measure',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/measure/";
+            },},{id: "projects-physics-experience-life",
+          title: 'Physics - Experience - Life',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pel/";
+            },},{id: "projects-singularity",
+          title: 'Singularity',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/singularity/";
             },},{id: "works-nonsmooth-mechanics-for-general-relativity",
           title: 'Nonsmooth mechanics for general relativity',
           description: "",
