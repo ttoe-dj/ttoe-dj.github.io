@@ -2,7 +2,7 @@
 layout: work-page
 title: Decoherence does not imply branching
 author: Ding Jia
-date: 2024-00-28
+date: 2024-02-08
 cover: assets/img/covers/2024-EP_decoherence-branching_preview_202428.jpeg
 categories: article
 tags: branching decoherence decoherent-histories everrettian-interpretation experience histories
@@ -25,7 +25,7 @@ The present work demonstrates that this perspective is untenable. Building on th
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.21267.25128) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
