@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prediction market - Which approach(es) will lead to a viable theory of quantum gravity?
+title: Which approach(es) will lead to a viable theory of quantum gravity?
 date: 2025-08-04 10:27:00
 description: 
 tags: gravity 
