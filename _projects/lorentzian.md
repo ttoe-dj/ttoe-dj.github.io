@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Lorentzian path integrals
+description: 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: gravity
 related_publications: false
 ---
 
