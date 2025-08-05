@@ -5,7 +5,7 @@ author: Ding Jia
 date: 2025-07-04
 cover: assets/img/covers/2025_DL_BC_whos-action_v1.0_preview_202574.jpeg
 categories: article
-tags: black-hole cosmology finite-action Lorentzian-quantum-gravity path-integral quantum-gravity singularity
+tags: black-hole cosmology finite-action lorentzian-quantum-gravity path-integral quantum-gravity singularity
 ---
 
 ##### Description

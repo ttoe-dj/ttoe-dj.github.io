@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lorentzian path integrals
+title: Lorentzian quantum gravity
 description: 
 img: assets/img/12.jpg
 importance: 1
