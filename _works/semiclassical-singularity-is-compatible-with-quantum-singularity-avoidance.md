@@ -28,7 +28,7 @@ Abstract: In quantum gravity, singularity avoidance at the quantum level is comm
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.22466.96966) for a preview of the paper. 
+Visit the [ResearchGate page](https://www.researchgate.net/publication/375486444_Semiclassical_singularity_is_compatible_with_quantum_singularity_avoidance) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 

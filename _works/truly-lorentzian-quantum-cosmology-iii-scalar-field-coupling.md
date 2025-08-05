@@ -26,7 +26,7 @@ Abstract: In prequel works we compared real time path integrals for minisuperspa
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.15114.27843) for a preview of the paper. 
+Visit the [ResearchGate page](https://www.researchgate.net/publication/380345828_Truly_Lorentzian_quantum_cosmology_III_Scalar_field_coupling) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
