@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Updating quantum foundations
+title: Refreshing quantum foundations
 description: 
 img: assets/img/12.jpg
 importance: 1

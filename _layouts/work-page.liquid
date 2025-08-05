@@ -81,14 +81,12 @@ layout: default
 <style>
   figure {
     float: none;
+    width: fit-content;  /* Ensures figure's width is determined by its content */
     display: block;
-    width: fit-content;
-    display: table; /* Fallback */
-    max-width: 100%;
     margin-right: auto;
     margin-left: auto;
   }
-  figure  > img {
+  figure > img {
     vertical-align: top;
     display: block;
     margin-right: 0px;
@@ -104,38 +102,65 @@ layout: default
     overflow-wrap: break-word;
   }
 
-  @media screen and (min-width: 600px)  {
-    .empty-review{
+  @media screen and (min-width: 600px) {
+    .empty-review {
       float: left;
       display: block;
-      margin: 0px;
+      margin: 0px 0px 0px 0px;
       padding: 0px 0px 0px 20px;
     }
+
     .empty-review-caption {
       caption-side: left;
       text-align: left;
     }
+
     .empty-review-cover {
-      width:250px;
+      width: 250px;
       vertical-align: top;
       padding-right: 40px;
     }
+
     figure {
       float: right;
-      display: inline-block; /* Fixed */
-      margin: 0px;
+      width: fit-content;  /* Ensures figure's width is determined by its content */
+      display: in-line block;
+      margin: 0px 0px 0px 0px;
       padding: 0px 0px 0px 20px;
     }
+
     figure img {
-      width:400px;
+      width: 400px;
       vertical-align: top;
     }
+
     figure figcaption {
       caption-side: bottom;
       text-align: left;
     }
-    .mobile-break { display: none; }
+
+    .mobile-break {
+      display: none;
+    }
   }
 
-  /* Keep existing blockquote styles */
+  /* =Blockquote
+  -------------------------------------------------------------- */
+  blockquote {
+    position: relative;
+    marign: 0px;
+    display: table;
+  }
+  blockquote:before,
+  blockquote:after {
+    /* properties to format the block quotes */
+  }
+  blockquote:before {
+    top: 0;
+    left: 0;
+  }
+  blockquote:after {
+    top: 0;
+    right: 0;
+  }
 </style>
