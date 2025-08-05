@@ -2,7 +2,7 @@
 layout: work-page
 title: Truly Lorentzian quantum cosmology. III. Scalar field coupling
 author: Ding Jia
-date: 2024-00-58
+date: 2024-05-04
 cover: assets/img/covers/2024_DL-BC_truly-coupling_v1.1_preview_202458.jpeg
 categories: article
 tags: bouncing-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity quantum-cosmology quantum-gravity saddle-point semiclassical-approximation singularity
@@ -26,7 +26,7 @@ Abstract: In prequel works we compared real time path integrals for minisuperspa
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.15114.27843) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 

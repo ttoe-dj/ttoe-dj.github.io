@@ -24,7 +24,7 @@ Abstract: Why do we experience temporally oriented phenomena, when the dynamical
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.20764.40328) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 

@@ -24,7 +24,7 @@ Abstract: In the game of billiards, two balls can be connected either by a direc
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.14683.07205) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
