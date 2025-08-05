@@ -115,11 +115,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-boundary-condition",
+          section: "News",},{id: "projects-arrow-of-time",
+          title: 'Arrow of time',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/arrow-time/";
+            },},{id: "projects-boundary-condition",
           title: 'Boundary condition',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boundary-condition/";
+            },},{id: "projects-quantum-histories",
+          title: 'Quantum histories',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/histories/";
             },},{id: "projects-lorentzian-path-integrals",
           title: 'Lorentzian path integrals',
           description: "",
@@ -130,6 +140,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/measure/";
+            },},{id: "projects-nonsmooth-gravity",
+          title: 'Nonsmooth gravity',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nonsmooth/";
             },},{id: "projects-physics-experience-life",
           title: 'Physics - Experience - Life',
           description: "",
