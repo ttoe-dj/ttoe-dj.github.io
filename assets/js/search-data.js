@@ -190,6 +190,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/inhomogeneous-instability-in-quantum-cosmology/";
+            },},{id: "works-lorentzian-bouncing-quantum-cosmology-bianchi-i",
+          title: 'Lorentzian bouncing quantum cosmology - Bianchi I',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/lorentzian-bouncing-quantum-cosmology-bianchi-i/";
             },},{id: "works-a-fundamental-problem-with-decoherent-histories",
           title: 'A fundamental problem with decoherent histories',
           description: "",
@@ -235,13 +240,8 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/bullshit-in-physics-everett-1957/";
-            },},{id: "works-",
-          title: '',
-          description: "",
-          section: "Works",handler: () => {
-              window.location.href = "/works/lorentzian-bouncing-quantum-cosmology-bianchi-i/";
-            },},{id: "works-",
-          title: '',
+            },},{id: "works-nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix",
+          title: 'Nonsmooth mechanics for cosmology - Biaxial Bianchi IX',
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix/";
