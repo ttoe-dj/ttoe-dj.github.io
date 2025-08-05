@@ -165,6 +165,26 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/consistency-issue-for-anisotropic-quantum-cosmology/";
+            },},{id: "works-semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance",
+          title: 'Semiclassical singularity is compatible with quantum singularity avoidance',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance/";
+            },},{id: "works-quantum-gravity-and-time-order",
+          title: 'Quantum gravity and time order',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/quantum-gravity-and-time-order/";
+            },},{id: "works-lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order",
+          title: 'Lightcone constraint in 3D simplicial gravity - method and application to quantum time...',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order/";
+            },},{id: "works-indifference-boundary-condition-for-the-universe",
+          title: 'Indifference boundary condition for the universe',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/indifference-boundary-condition-for-the-universe/";
             },},{id: "works-inhomogeneous-instability-in-quantum-cosmology",
           title: 'Inhomogeneous instability in quantum cosmology?',
           description: "",
@@ -200,11 +220,6 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/physics-experience-life-iii-arrow-of-time/";
-            },},{id: "works-semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance",
-          title: 'Semiclassical singularity is compatible with quantum singularity avoidance',
-          description: "",
-          section: "Works",handler: () => {
-              window.location.href = "/works/semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance/";
             },},{id: "works-truly-lorentzian-quantum-cosmology-iv-kantowski-sachs",
           title: 'Truly Lorentzian quantum cosmology. IV. Kantowski-Sachs',
           description: "",
@@ -220,11 +235,6 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/bullshit-in-physics-everett-1957/";
-            },},{id: "works-",
-          title: '',
-          description: "",
-          section: "Works",handler: () => {
-              window.location.href = "/works/lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order/";
             },},{id: "works-",
           title: '',
           description: "",
