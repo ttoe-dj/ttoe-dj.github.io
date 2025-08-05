@@ -125,13 +125,18 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boundary-condition/";
+            },},{id: "projects-updating-quantum-foundations",
+          title: 'Updating quantum foundations',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/foundations/";
             },},{id: "projects-quantum-histories",
           title: 'Quantum histories',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/histories/";
-            },},{id: "projects-lorentzian-path-integrals",
-          title: 'Lorentzian path integrals',
+            },},{id: "projects-lorentzian-quantum-gravity",
+          title: 'Lorentzian quantum gravity',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lorentzian/";
@@ -155,6 +160,86 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/singularity/";
+            },},{id: "works-consistency-issue-for-anisotropic-quantum-cosmology",
+          title: 'Consistency issue for anisotropic quantum cosmology?',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/consistency-issue-for-anisotropic-quantum-cosmology/";
+            },},{id: "works-inhomogeneous-instability-in-quantum-cosmology",
+          title: 'Inhomogeneous instability in quantum cosmology?',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/inhomogeneous-instability-in-quantum-cosmology/";
+            },},{id: "works-a-fundamental-problem-with-decoherent-histories",
+          title: 'A fundamental problem with decoherent histories',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/a-fundamental-problem-with-decoherent-histories/";
+            },},{id: "works-decoherence-does-not-imply-branching",
+          title: 'Decoherence does not imply branching',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/decoherence-does-not-imply-branching/";
+            },},{id: "works-truly-lorentzian-quantum-cosmology-ii-exact-formula-and-effective-geometries",
+          title: 'Truly Lorentzian quantum cosmology. II. Exact formula and effective geometries',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/truly-lorentzian-quantum-cosmology-ii-exact-formula-and-effective-geometries/";
+            },},{id: "works-truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling",
+          title: 'Truly Lorentzian quantum cosmology. III. Scalar field coupling',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling/";
+            },},{id: "works-physics-experience-life-ii-quantum-toy-models-of-life",
+          title: 'Physics, Experience, Life. II. Quantum toy models of life',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/physics-experience-life-ii-quantum-toy-models-of-life/";
+            },},{id: "works-physics-experience-life-iii-arrow-of-time",
+          title: 'Physics, Experience, Life. III. Arrow of time',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/physics-experience-life-iii-arrow-of-time/";
+            },},{id: "works-semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance",
+          title: 'Semiclassical singularity is compatible with quantum singularity avoidance',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance/";
+            },},{id: "works-truly-lorentzian-quantum-cosmology-iv-kantowski-sachs",
+          title: 'Truly Lorentzian quantum cosmology. IV. Kantowski-Sachs',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/truly-lorentzian-quantum-cosmology-iv-kantowski-sachs/";
+            },},{id: "works-experience-and-temporality-in-quantum-physics",
+          title: 'Experience and temporality in quantum physics',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/experience-and-temporality-in-quantum-physics/";
+            },},{id: "works-bullshit-in-physics-everett-1957",
+          title: 'Bullshit in physics - Everett 1957',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/bullshit-in-physics-everett-1957/";
+            },},{id: "works-",
+          title: '',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order/";
+            },},{id: "works-",
+          title: '',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/lorentzian-bouncing-quantum-cosmology-bianchi-i/";
+            },},{id: "works-",
+          title: '',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix/";
+            },},{id: "works-who-s-afraid-of-singularity",
+          title: 'Who’s afraid of singularity?',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/whos-afraid-of-singularity/";
             },},{id: "works-nonsmooth-mechanics-for-general-relativity",
           title: 'Nonsmooth mechanics for general relativity',
           description: "",
