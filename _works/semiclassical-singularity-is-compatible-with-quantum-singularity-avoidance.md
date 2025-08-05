@@ -2,7 +2,7 @@
 layout: work-page
 title: Semiclassical singularity is compatible with quantum singularity avoidance
 author: Ding Jia
-date: 2025-02-16
+date: 2023-10-02
 cover: assets/img/covers/2023_DL-BC_semiclassical-avoidance_v1.2_preview_2025216.jpeg
 categories: article
 tags: bounce-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity quantum-gravity saddle-point semiclassical-approximation singularity
@@ -28,7 +28,7 @@ Abstract: In quantum gravity, singularity avoidance at the quantum level is comm
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.22466.96966) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 

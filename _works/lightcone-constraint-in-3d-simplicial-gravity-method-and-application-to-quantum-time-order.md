@@ -1,9 +1,9 @@
 ---    
 layout: work-page
-title: Lightcone constraint in 3D simplicial gravity: method and application to quantum time order
+title: Lightcone constraint in 3D simplicial gravity - method and application to quantum time order
 author: Ding Jia
-date: 2023-10-28
-cover: assets/img/covers/2023_DL_lightcone-order_v1.1-33_20231028.jpeg
+date: 2023-10-27
+cover: assets/img/covers/2023_DL_lightcone-order_v1.1_20231028
 categories: article
 tags: causal-structure lightcone-structure lorentzian-path-integral lorentzian-quantum-gravity monte-carlo path-integral quantumg-gravity regge-calculus simplicial-gravity simplicial-quantum-gravity time-order
 ---
@@ -26,7 +26,7 @@ Abstract: In Lorentzian simplicial gravity, a lightcone constraint needs to be i
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.23305.83048) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
