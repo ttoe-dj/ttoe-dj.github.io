@@ -24,10 +24,10 @@ Abstract: In gravitational field theories such as General Relativity, spacetime 
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.17337.89440) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
 
-<a href="https://payhip.com/b/PRODUCT_ID" class="payhip-buy-button" data-theme="green" data-product="PRODUCT_ID">Purchase full paper</a>
+<a href="https://payhip.com/b/8Rro5" class="payhip-buy-button" data-theme="green" data-product="8Rro5">Purchase full paper</a>

@@ -2,7 +2,7 @@
 layout: work-page
 title: A fundamental problem with decoherent histories
 author: Ding Jia
-date: 2024-00-27
+date: 2024-02-07
 cover: assets/img/covers/2024_EP_fundamental-histories_preview_202427.jpeg
 categories: article
 tags: decoherent-histories experience histories quantum-measurement

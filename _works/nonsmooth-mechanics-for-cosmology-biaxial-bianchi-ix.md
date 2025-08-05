@@ -24,10 +24,10 @@ Abstract: This paper investigates cosmological singularity resolution by applyin
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.30759.66721) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
 
-<a href="https://payhip.com/b/PRODUCT_ID" class="payhip-buy-button" data-theme="green" data-product="PRODUCT_ID">Purchase full paper</a>
+<a href="https://payhip.com/b/bCJ6f" class="payhip-buy-button" data-theme="green" data-product="bCJ6f">Purchase full paper</a>

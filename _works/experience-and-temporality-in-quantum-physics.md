@@ -2,7 +2,7 @@
 layout: work-page
 title: Experience and temporality in quantum physics
 author: Ding Jia
-date: 2025-00-34
+date: 2025-03-04
 cover: assets/img/covers/2025-EP_experience-physics_v1.0_preview_202534.jpeg
 categories: article
 tags: experience quantum temporality time
@@ -24,7 +24,7 @@ Abstract: It seems reasonable to assume that experience supervenes on physics, b
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](X) for a preview of the paper. 
+Visit the [ResearchGate page](http://dx.doi.org/10.13140/RG.2.2.15838.14402) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
