@@ -70,7 +70,21 @@ ___
 
 # Experience
 
+### Test
+
 ___
 
 # Boundary condition
 
+## Framework
+
+Which theoretical framework would the correct theory of gravity be based in?
+
+{% tabs framework %}
+
+{% tab framework path integral %}
+
+- No difficulty for accommodating matter fields of the Standard Model. (+)
+- Works whether or not spacetimes in superposition follow a common time foliation (+)
+
+{% endtab %}
