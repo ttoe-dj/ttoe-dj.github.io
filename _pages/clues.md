@@ -2,7 +2,7 @@
 layout: page
 permalink: /clues/
 title: Clues
-description: 
+description: This page is under construction
 nav: true
 nav_order: 1
 tabs: true

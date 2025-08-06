@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Refreshing quantum foundations
+title: What is a quantum system?
 description: 
 img: assets/img/12.jpg
-importance: 3
+importance: 1
 category: seed
 related_publications: false
 ---
