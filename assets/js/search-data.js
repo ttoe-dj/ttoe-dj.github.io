@@ -133,7 +133,7 @@ ninja.data = [{
               window.location.href = "/projects/arrow-time/";
             },},{id: "projects-boundary-condition",
           title: 'Boundary condition',
-          description: "",
+          description: "This page is under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/boundary-condition/";
             },},{id: "projects-refreshing-quantum-foundations",
@@ -158,7 +158,7 @@ ninja.data = [{
               window.location.href = "/projects/measure/";
             },},{id: "projects-nonsmooth-gravity",
           title: 'Nonsmooth gravity',
-          description: "",
+          description: "This page is under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nonsmooth/";
             },},{id: "projects-physics-experience-life",
