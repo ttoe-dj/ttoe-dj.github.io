@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-clues",
           title: "Clues",
-          description: "",
+          description: "This page is under construction",
           section: "Navigation",
           handler: () => {
             window.location.href = "/clues/";
@@ -171,6 +171,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/singularity/";
+            },},{id: "projects-what-is-a-quantum-system",
+          title: 'What is a quantum system?',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/system/";
             },},{id: "works-consistency-issue-for-anisotropic-quantum-cosmology",
           title: 'Consistency issue for anisotropic quantum cosmology?',
           description: "",
