@@ -143,7 +143,7 @@ ninja.data = [{
               window.location.href = "/projects/foundations/";
             },},{id: "projects-time-amp-history",
           title: 'Time &amp;amp; history',
-          description: "",
+          description: "This page is under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/history/";
             },},{id: "projects-lorentzian-quantum-gravity",
@@ -153,7 +153,7 @@ ninja.data = [{
               window.location.href = "/projects/lorentzian/";
             },},{id: "projects-path-integral-measure",
           title: 'Path integral measure',
-          description: "",
+          description: "This page is under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/measure/";
             },},{id: "projects-nonsmooth-gravity",
@@ -173,7 +173,7 @@ ninja.data = [{
               window.location.href = "/projects/singularity/";
             },},{id: "projects-what-is-a-quantum-system",
           title: 'What is a quantum system?',
-          description: "",
+          description: "This page is under construction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/system/";
             },},{id: "works-consistency-issue-for-anisotropic-quantum-cosmology",
