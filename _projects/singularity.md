@@ -14,6 +14,6 @@ ___
 
 For the above prediction market, my credence in "(Some) singular solutions are replaced by singular bouncing solutions" is high, because of things learned in the following project.
 
-When the Lorentzian condition is taken seriously, singular solutions that stop at singularities are replaced by singular bounce solutions that carry through singularities (see [Jia2025a]({{ site.baseurl }}works/whos-afraid-of-singularity/) [Jia2025b]({{ site.baseurl }}works/nonsmooth-mechanics-for-general-relativity/) and references therein). The reason is that the Lorentzian condition imposes an inequality constraint on the solutions, and inequality constraints induce bounce solutions quite generically.
+When the Lorentzian condition is taken seriously, singular solutions that stop at singularities are replaced by singular bounce solutions that carry through singularities (see [Jia2025a]({{ site.baseurl }}/works/whos-afraid-of-singularity/) [Jia2025b]({{ site.baseurl }}/works/nonsmooth-mechanics-for-general-relativity/) and references therein). The reason is that the Lorentzian condition imposes an inequality constraint on the solutions, and inequality constraints induce bounce solutions quite generically.
 
 So far the bouncing solutions have been obtained in minisuperspace cosmology models and non-evaporating black hole models. In the future, I hope to explore more general contexts like evaporating black holes.
