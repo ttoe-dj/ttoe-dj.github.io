@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-fermion-requires-tetrad-rovelli-vidotto-2015",
+        },{id: "post-what-39-s-the-status-of-singularity-in-the-correct-theory-of-quantum-gravity-if-there-is-any",
+        
+          title: "What&#39;s the status of singularity in the correct theory of quantum gravity (if...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/SingularityMarket/";
+          
+        },
+      },{id: "post-fermion-requires-tetrad-rovelli-vidotto-2015",
         
           title: "Fermion requires tetrad? (Rovelli, Vidotto 2015)",
         
