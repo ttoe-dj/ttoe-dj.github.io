@@ -8,7 +8,7 @@ category: gravity
 related_publications: false
 ---
 
-<iframe src="https://manifold.markets/embed/ttoe/whats-the-status-of-singularity-in" title="What's the status of singularity in the correct theory of quantum gravity (if there is any)" frameborder="0" style="position: relative; left:50%; transform: translateX(-50%); width:90%; height:45rem; max-width: 35rem;"></iframe>
+<iframe src="https://manifold.markets/embed/ttoe/whats-the-status-of-singularity-in" title="What's the status of singularity in the correct theory of quantum gravity (if there is any)" frameborder="0" style="position: relative; left:50%; transform: translateX(-50%); width:90%; height:55rem; max-width: 35rem;"></iframe>
 
 ___
 
