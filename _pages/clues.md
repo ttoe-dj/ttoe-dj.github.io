@@ -12,9 +12,13 @@ toc:
 
 Here are some clues I use to update my personal credences on topics associated with theories of everything. Positive/negative clues are labeled by +/-; the more marks, the more it affects my credence.
 
-## Gravity
+# Gravity
 
-___
+<details markdown=1><summary markdown="span">Related prediction markets</summary>
+
+<iframe src="https://manifold.markets/embed/ttoe/which-approaches-will-lead-to-a-via" title="Which approach(es) will lead to a viable theory of quantum gravity?" frameborder="0" style="position: relative; left:50%; transform: translateX(-50%); width:90%; height:40rem; max-width: 35rem;"></iframe>
+
+</details>
 
 ##### Framework
 
@@ -58,13 +62,4 @@ Which theoretical framework would the correct theory of gravity be based in?
 
 {% endtabs %}
 
-___
-
-<details markdown=1><summary markdown="span">Related prediction markets</summary>
-
-<iframe src="https://manifold.markets/embed/ttoe/which-approaches-will-lead-to-a-via" title="Which approach(es) will lead to a viable theory of quantum gravity?" frameborder="0" style="position: relative; left:50%; transform: translateX(-50%); width:90%; height:50rem; max-width: 35rem;"></iframe>
-
-</details>
-
-
-## Experience
+# Experience
