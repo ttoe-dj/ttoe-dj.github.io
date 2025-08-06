@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description: If you are interested in collaborating on any of these prjects, drop me an [email](mailto:djia.research@gmail.com).
 nav: true
 nav_order: 3
 display_categories: [gravity, boundary-condition, experience, seed]
