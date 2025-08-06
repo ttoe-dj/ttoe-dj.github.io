@@ -88,3 +88,5 @@ Which theoretical framework would the correct theory of gravity be based in?
 - Works whether or not spacetimes in superposition follow a common time foliation (+)
 
 {% endtab %}
+
+{% endtabs %}
