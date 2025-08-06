@@ -141,11 +141,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/foundations/";
-            },},{id: "projects-quantum-histories",
-          title: 'Quantum histories',
+            },},{id: "projects-time-amp-history",
+          title: 'Time &amp;amp; history',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/histories/";
+              window.location.href = "/projects/history/";
             },},{id: "projects-lorentzian-quantum-gravity",
           title: 'Lorentzian quantum gravity',
           description: "",
