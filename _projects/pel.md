@@ -18,9 +18,9 @@ To arrive at empirical predictions in quantum theory, we need:
 
 Interior condition is the contentious element. The projection operators of a measurement describes an interior condition, because it is located in the interior of the universe as opposed to the boundary. We know what interior condition to impose in many practical situations. The challenge is to tell when and where and what to impose in general.
 
-In [Jia2023](https://arxiv.org/abs/2306.11549) I argue for a minimal prescription: impose interior condition for one experience only when deriving probabilities for it, and nowhere else.
+In [Jia2023](https://arxiv.org/abs/2306.11549), I argue for a minimal prescription: impose interior condition for one experience only when deriving probabilities for it, and nowhere else.
 
-In [Jia2025]({{ site.baseurl }}/works/physics-experience-life-ii-quantum-toy-models-of-life/) I develop the proposal to specify more explicitly what "experience" is supposed to mean in physical terms -- it derives from cognitive behavior of living physical systems. An application is a novel approach to [explain arrows of time](../arrow-time/) [Jia2024]({{ site.baseurl }}/works/physics-experience-life-iii-arrow-of-time/).
+In [Jia2025]({{ site.baseurl }}/works/physics-experience-life-ii-quantum-toy-models-of-life/), I develop the proposal to specify more explicitly what "experience" is supposed to mean in physical terms -- it derives from cognitive behavior of living physical systems. An application is a novel approach to [explain arrows of time](../arrow-time/), [Jia2024]({{ site.baseurl }}/works/physics-experience-life-iii-arrow-of-time/).
  
 In the future, I hope to understand better:
 
