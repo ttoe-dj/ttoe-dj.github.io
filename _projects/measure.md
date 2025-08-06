@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Path integral measure
-description: 
+description: This page is under construction
 img: assets/img/12.jpg
 importance: 1
 category: seed
