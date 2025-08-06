@@ -14,7 +14,7 @@ Here are some clues I use to update my personal credences on topics associated w
 
 ___
 
-## Gravity
+# Gravity
 
 <details markdown=1><summary markdown="span">Related prediction markets</summary>
 
@@ -22,7 +22,7 @@ ___
 
 </details>
 
-</br>
+<br>
 
 ##### Framework
 
