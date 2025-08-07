@@ -1,5 +1,54 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // Extract path after "/A/"
+    const path = window.location.pathname.split('/test/')[1] || '';
+    // Redirect to "/B/" + extracted path
+    window.location.replace(`/works/${path}${window.location.search}${window.location.hash}`);
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a id="new-url" href="/works/">/works/</a>...</p>
+  <script>
+    document.getElementById('new-url').href = `/works/${path}`;
+  </script>
+</body>
+</html> -->
+
 <!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to https://ttoe-dj.github.io/works/</title>
-<meta http-equiv="refresh" content="0; URL=https://ttoe-dj.github.io/works/">
-<link rel="canonical" href="https://ttoe-dj.github.io/works/">
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // Get the full path
+    const path = window.location.pathname;
+
+    // Replace the '/test/' part of the path with '/works/'
+    const newPath = path.replace('/test/', '/works/');
+
+    // Get the search and hash parts of the URL
+    const search = window.location.search;
+    const hash = window.location.hash;
+
+    // Construct the new URL
+    const newUrl = `${newPath}${search}${hash}`;
+
+    // Redirect the browser to the new URL
+    window.location.replace(newUrl);
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a id="new-url" href="/works/">/works/</a>...</p>
+  <script>
+    // This script updates the link in case JavaScript is disabled
+    const path = window.location.pathname.replace('/test/', '/works/');
+    const newUrl = `${path}${window.location.search}${window.location.hash}`;
+    document.getElementById('new-url').href = newUrl;
+    document.getElementById('new-url').textContent = newUrl;
+  </script>
+</body>
+</html>
