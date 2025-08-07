@@ -66,9 +66,9 @@ Which theoretical framework would the correct theory of gravity be based in?
 
 {% endtabs %}
 
-## Description of gravity
+## Description
 
-How should spacetime be fundamentally described?
+How should gravity/spacetime be fundamentally described?
 
 {% tabs description %}
 
@@ -94,6 +94,98 @@ How should spacetime be fundamentally described?
 {% endtab %}
 
 {% tab description holographic duality %}
+
+{% endtab %}
+
+{% tab description emergent from other degrees of freedom %}
+
+{% endtab %}
+
+{% endtabs %}
+
+## Singularity
+
+What's the status of singularity in the correct theory of quantum gravity (if there is any)?
+
+{% tabs singularity %}
+
+{% tab singularity nonsingular bounce %}
+
+{% endtab %}
+
+{% tab singularity singular bounce %}
+
+{% endtab %}
+
+{% tab singularity DeWitt boundary condition %}
+
+{% endtab %}
+
+{% tab singularity modified action %}
+
+{% endtab %}
+
+{% tab singularity wormholes/topology change %}
+
+{% endtab %}
+
+{% tab singularity fuzzballs/strings %}
+
+{% endtab %}
+
+{% tab singularity noncommutative smoothing %}
+
+{% endtab %}
+
+{% endtabs %}
+
+## Information
+
+What happens to quantum information in black holes?
+
+{% tabs information %}
+
+{% tab information out to same universe %}
+
+{% endtab %}
+
+{% tab information out to baby universe %}
+
+{% endtab %}
+
+{% tab information remnant %}
+
+{% endtab %}
+
+{% tab information stored on horizon %}
+
+{% endtab %}
+
+{% tab information lost %}
+
+{% endtab %}
+
+{% endtabs %}
+
+## Evidence
+
+Where would theory-distinguishing empirical evidences for quantum gravity come from?
+
+{% tabs evidence %}
+
+{% tab evidence gravitational wave %}
+
+{% endtab %}
+
+{% tab evidence cosmology and astrophysics %}
+
+{% endtab %}
+
+{% tab evidence table-top experiments %}
+
+{% endtab %}
+
+{% tab evidence particle physics %}
 
 {% endtab %}
 
