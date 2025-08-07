@@ -137,6 +137,8 @@ collections:
     output: true
   works:
     output: true
+  product:
+    output: true
   news:
     defaults:
       layout: post
@@ -249,6 +251,8 @@ jekyll-archives:
       tags: "/posts/:type/:name/"
       categories: "/posts/:type/:name/"
   works:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  product:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
