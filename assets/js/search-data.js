@@ -126,7 +126,107 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-arrow-of-time",
+          section: "News",},{id: "product-consistency-issue-for-anisotropic-quantum-cosmology",
+          title: 'Consistency issue for anisotropic quantum cosmology?',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/consistency-issue-for-anisotropic-quantum-cosmology/";
+            },},{id: "product-semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance",
+          title: 'Semiclassical singularity is compatible with quantum singularity avoidance',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance/";
+            },},{id: "product-quantum-gravity-and-time-order",
+          title: 'Quantum gravity and time order',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/quantum-gravity-and-time-order/";
+            },},{id: "product-lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order",
+          title: 'Lightcone constraint in 3D simplicial gravity - method and application to quantum time...',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order/";
+            },},{id: "product-indifference-boundary-condition-for-the-universe",
+          title: 'Indifference boundary condition for the universe',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/indifference-boundary-condition-for-the-universe/";
+            },},{id: "product-inhomogeneous-instability-in-quantum-cosmology",
+          title: 'Inhomogeneous instability in quantum cosmology?',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/inhomogeneous-instability-in-quantum-cosmology/";
+            },},{id: "product-lorentzian-bouncing-quantum-cosmology-bianchi-i",
+          title: 'Lorentzian bouncing quantum cosmology - Bianchi I',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/lorentzian-bouncing-quantum-cosmology-bianchi-i/";
+            },},{id: "product-a-fundamental-problem-with-decoherent-histories",
+          title: 'A fundamental problem with decoherent histories',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/a-fundamental-problem-with-decoherent-histories/";
+            },},{id: "product-decoherence-does-not-imply-branching",
+          title: 'Decoherence does not imply branching',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/decoherence-does-not-imply-branching/";
+            },},{id: "product-truly-lorentzian-quantum-cosmology-ii-exact-formula-and-effective-geometries",
+          title: 'Truly Lorentzian quantum cosmology. II. Exact formula and effective geometries',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/truly-lorentzian-quantum-cosmology-ii-exact-formula-and-effective-geometries/";
+            },},{id: "product-truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling",
+          title: 'Truly Lorentzian quantum cosmology. III. Scalar field coupling',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling/";
+            },},{id: "product-physics-experience-life-ii-quantum-toy-models-of-life",
+          title: 'Physics, Experience, Life. II. Quantum toy models of life',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/physics-experience-life-ii-quantum-toy-models-of-life/";
+            },},{id: "product-physics-experience-life-iii-arrow-of-time",
+          title: 'Physics, Experience, Life. III. Arrow of time',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/physics-experience-life-iii-arrow-of-time/";
+            },},{id: "product-truly-lorentzian-quantum-cosmology-iv-kantowski-sachs",
+          title: 'Truly Lorentzian quantum cosmology. IV. Kantowski-Sachs',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/truly-lorentzian-quantum-cosmology-iv-kantowski-sachs/";
+            },},{id: "product-experience-and-temporality-in-quantum-physics",
+          title: 'Experience and temporality in quantum physics',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/experience-and-temporality-in-quantum-physics/";
+            },},{id: "product-bullshit-in-physics-everett-1957",
+          title: 'Bullshit in physics - Everett 1957',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/bullshit-in-physics-everett-1957/";
+            },},{id: "product-nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix",
+          title: 'Nonsmooth mechanics for cosmology - Biaxial Bianchi IX',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix/";
+            },},{id: "product-who-s-afraid-of-singularity",
+          title: 'Who’s afraid of singularity?',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/whos-afraid-of-singularity/";
+            },},{id: "product-nonsmooth-mechanics-for-general-relativity",
+          title: 'Nonsmooth mechanics for general relativity',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/nonsmooth-mechanics-for-general-relativity/";
+            },},{id: "product-who-s-afraid-of-infinite-action",
+          title: 'Who’s afraid of infinite action?',
+          description: "",
+          section: "Product",handler: () => {
+              window.location.href = "/product/whos-afraid-of-infinite-action/";
+            },},{id: "projects-arrow-of-time",
           title: 'Arrow of time',
           description: "",
           section: "Projects",handler: () => {
