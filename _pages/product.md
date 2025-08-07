@@ -1,7 +1,7 @@
 ---
 layout: work-shelf
 title: Works
-permalink: /works/
+permalink: /product/
 description: Recent works
 nav: false
 nav_order: 4

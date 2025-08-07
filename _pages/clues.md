@@ -4,7 +4,7 @@ permalink: /clues/
 title: Clues
 description: This page is under construction
 nav: true
-nav_order: 1
+nav_order: 5
 tabs: true
 toc:
   sidebar: left
@@ -24,7 +24,7 @@ ___
 
 <br>
 
-##### Framework
+## Framework
 
 Which theoretical framework would the correct theory of gravity be based in?
 
@@ -33,7 +33,7 @@ Which theoretical framework would the correct theory of gravity be based in?
 {% tab framework path integral %}
 
 - No difficulty for accommodating matter fields of the Standard Model. (+)
-- Works whether or not spacetimes in superposition follow a common time foliation (+)
+- Works whether or not spacetimes in superposition follow a common time foliation. (+)
 
 {% endtab %}
 
@@ -66,11 +66,44 @@ Which theoretical framework would the correct theory of gravity be based in?
 
 {% endtabs %}
 
+## Description of gravity
+
+How should spacetime be fundamentally described?
+
+{% tabs description %}
+
+{% tab description metric field %}
+
+{% endtab %}
+
+{% tab description gauge variables %}
+
+
+{% endtab %}
+
+{% tab description causal set %}
+
+- Probably no measure factor subtleties in a sum over histories for causal sets. (+)
+- How to enforce dimension 4 in a sum over histories for causal sets? (- -)
+- How to incorporate fermionic matter in the absence of tangent spaces? (-)
+
+{% endtab %}
+
+{% tab description extended objects (e.g., strings & branes) %}
+
+{% endtab %}
+
+{% tab description holographic duality %}
+
+{% endtab %}
+
+{% endtabs %}
+
 ___
 
 # Experience
 
-### Test
+## Many-worlds
 
 ___
 
