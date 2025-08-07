@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-clues",
-          title: "Clues",
-          description: "This page is under construction",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/clues/";
-          },
-        },{id: "nav-posts",
+  },{id: "nav-posts",
           title: "Posts",
           description: "",
           section: "Navigation",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/works/";
+          },
+        },{id: "nav-clues",
+          title: "Clues",
+          description: "This page is under construction",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/clues/";
           },
         },{id: "nav-cv",
           title: "CV",
