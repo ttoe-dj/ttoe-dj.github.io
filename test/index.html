@@ -18,7 +18,7 @@
 </body>
 </html> -->
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -49,6 +49,31 @@
     const newUrl = `${path}${window.location.search}${window.location.hash}`;
     document.getElementById('new-url').href = newUrl;
     document.getElementById('new-url').textContent = newUrl;
+  </script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // Extract path after "/test/"
+    const path = window.location.pathname.split('/test/')[1] || '';
+
+    // Build new URL
+    const newUrl = `/works/${path}${window.location.search}${window.location.hash}`;
+
+    // Immediately redirect
+    window.location.replace(newUrl);
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a id="new-url" href="#">/works/</a>...</p>
+  <script>
+    // Use the same newUrl to update the link
+    document.getElementById('new-url').href = newUrl;
   </script>
 </body>
 </html>
