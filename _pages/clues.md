@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-Here are some clues I use to update my personal credences on topics associated with theories of everything. Positive/negative clues are labeled by +/-; the more marks, the more it affects my credence.
+Here are some clues I use to update my personal credences. Plus/minus signs increase/decrease credence. The more signs, the more the increase/decrease. The list of options are not supposed to be exhaustive. The options are also not necessarily exclusive against each other. I hope to constantly update the clues as I learn.
 
 ___
 
@@ -76,8 +76,7 @@ How should gravity/spacetime be fundamentally described?
 
 {% endtab %}
 
-{% tab description gauge variables %}
-
+{% tab description gauge field %}
 
 {% endtab %}
 
@@ -89,15 +88,15 @@ How should gravity/spacetime be fundamentally described?
 
 {% endtab %}
 
-{% tab description extended objects (e.g., strings & branes) %}
+{% tab description extended objects %}
 
 {% endtab %}
 
-{% tab description holographic duality %}
+{% tab description holography %}
 
 {% endtab %}
 
-{% tab description emergent from other degrees of freedom %}
+{% tab description emergence %}
 
 {% endtab %}
 
@@ -195,22 +194,35 @@ ___
 
 # Experience
 
+## Interior condition
+
+## History
+
 ## Many-worlds
 
 ___
 
 # Boundary condition
 
-## Framework
+## Options
 
-Which theoretical framework would the correct theory of gravity be based in?
+What should be the boundary condition of the universe?
 
-{% tabs framework %}
+{% tabs options %}
 
-{% tab framework path integral %}
+{% tab options no-boundary %}
 
-- No difficulty for accommodating matter fields of the Standard Model. (+)
-- Works whether or not spacetimes in superposition follow a common time foliation (+)
+{% endtab %}
+
+{% tab options tunneling %}
+
+{% endtab %}
+
+{% tab options indifference %}
+
+{% endtab %}
+
+{% tab options fine-tuned %}
 
 {% endtab %}
 
