@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "If you are interested in collaborating on any of these prjects, drop me an email.",
+          description: "Drop me an email if you are interested in collaborating on any of these prjects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -258,7 +258,7 @@ ninja.data = [{
               window.location.href = "/projects/measure/";
             },},{id: "projects-nonsmooth-gravity",
           title: 'Nonsmooth gravity',
-          description: "This page is under construction",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nonsmooth/";
             },},{id: "projects-physics-experience-life",
