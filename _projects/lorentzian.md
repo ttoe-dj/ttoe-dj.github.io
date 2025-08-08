@@ -3,12 +3,12 @@ layout: page
 title: Lorentzian quantum gravity
 description: 
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: gravity
 related_publications: false
 ---
 
-They say, "gravity is non-renormalizable". That conclusion is derived for a theory that it not even Euclidean. 
+They say, "gravity is non-renormalizable". That conclusion is derived for a theory that is not even Euclidean. 
 
 "Expand the metric $$g_{ab}=\eta_{ab}+h_{ab}$$ against a fixed background $$\eta_{ab}$$ and integrate $$h_{ab}$$ over all real values". What ensures that $$g_{ab}$$ is Euclidean or Lorentzian? Nothing. What do we learn from the result? You draw your own conclusions.
 
