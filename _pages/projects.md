@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: If you are interested in collaborating on any of these prjects, drop me an email.
+description: Drop me an email if you are interested in collaborating on any of these prjects.
 nav: true
 nav_order: 3
 display_categories: [gravity, boundary-condition, experience, seed]

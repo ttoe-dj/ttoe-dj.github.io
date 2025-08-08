@@ -28,4 +28,6 @@ In the future, I hope to understand better:
 
 - Is the [indifference boundary condition](../boundary-condition) sufficient in this context, or is it too weak in deriving the structures we experience?
 
+- What (if any) is the quantum physical basis for us experiencing "reality"/"external world" as we do?
+
 - Other open questions pointed out at the end of [Jia2025]({{ site.baseurl }}/works/physics-experience-life-ii-quantum-toy-models-of-life/). 
