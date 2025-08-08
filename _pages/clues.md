@@ -168,7 +168,7 @@ What happens to quantum information in black holes?
 
 ## Evidence
 
-Where would theory-distinguishing empirical evidences for quantum gravity come from?
+Where would theory-distinguishing empirical evidences come from?
 
 {% tabs evidence %}
 
