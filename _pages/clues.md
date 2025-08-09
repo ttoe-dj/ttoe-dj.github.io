@@ -24,6 +24,10 @@ ___
 
 <br>
 
+## Foliation
+
+Is there a common time foliation or not for spacetimes in superposition?
+
 ## Framework
 
 Which theoretical framework would the correct theory of gravity be based in?
