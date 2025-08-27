@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-what-39-s-the-status-of-singularity-in-the-correct-theory-of-quantum-gravity-if-there-is-any",
+        },{id: "post-notes-on-clark-amp-toribio-1994-doing-without-representing",
+        
+          title: "Notes on Clark &amp; Toribio (1994) “Doing without representing?”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Clark1994/";
+          
+        },
+      },{id: "post-faqism",
+        
+          title: "Faqism",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Faqism/";
+          
+        },
+      },{id: "post-what-39-s-the-status-of-singularity-in-the-correct-theory-of-quantum-gravity-if-there-is-any",
         
           title: "What&#39;s the status of singularity in the correct theory of quantum gravity (if...",
         
@@ -251,16 +273,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lorentzian/";
-            },},{id: "projects-path-integral-measure",
-          title: 'Path integral measure',
-          description: "This page is under construction",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/measure/";
             },},{id: "projects-nonsmooth-gravity",
           title: 'Nonsmooth gravity',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nonsmooth/";
+            },},{id: "projects-foundation-of-path-integrals",
+          title: 'Foundation of path integrals',
+          description: "This page is under construction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/path%20integral/";
             },},{id: "projects-physics-experience-life",
           title: 'Physics - Experience - Life',
           description: "",
