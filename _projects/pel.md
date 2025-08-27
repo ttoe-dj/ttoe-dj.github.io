@@ -24,7 +24,7 @@ In [Jia2025]({{ site.baseurl }}/works/physics-experience-life-ii-quantum-toy-mod
  
 In the future, I hope to understand better:
 
-- What is a [quantum system](../system), in a first-principles approach?
+- What is a , in a first-principles approach?
 
 - Is the [indifference boundary condition](../boundary-condition) sufficient in this context, or is it too weak in deriving the structures we experience?
 
