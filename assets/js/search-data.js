@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-clark-amp-toribio-1994-doing-without-representing",
+        },{id: "post-notes-on-sudarsky-2009-shortcomings-in-the-understanding-of-why-cosmological-perturbations-look-classical",
+        
+          title: "Notes on Sudarsky (2009) “Shortcomings in the Understanding of Why Cosmological Perturbations Look...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Sudarsky2009/";
+          
+        },
+      },{id: "post-notes-on-clark-amp-toribio-1994-doing-without-representing",
         
           title: "Notes on Clark &amp; Toribio (1994) “Doing without representing?”",
         
