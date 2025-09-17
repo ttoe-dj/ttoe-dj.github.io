@@ -109,7 +109,7 @@ pagination:
 
     {% for post in postlist %}
 
-    {% if post.external == blank %}
+    {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
     {% endif %}
     {% assign year = post.date | date: "%Y" %}
@@ -137,7 +137,9 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
+        {% if post.external_source == blank %}
+          {{ read_time }} min read &nbsp; &middot; &nbsp;
+        {% endif %}
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
