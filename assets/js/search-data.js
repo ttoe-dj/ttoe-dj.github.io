@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-sudarsky-2009-shortcomings-in-the-understanding-of-why-cosmological-perturbations-look-classical",
+        },{id: "post-notes-on-vaidman-2021-quot-many-worlds-interpretation-of-quantum-mechanics",
+        
+          title: "Notes on Vaidman (2021) &quot;Many-Worlds Interpretation of Quantum Mechanics”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Vaidman2021/";
+          
+        },
+      },{id: "post-notes-on-sudarsky-2009-shortcomings-in-the-understanding-of-why-cosmological-perturbations-look-classical",
         
           title: "Notes on Sudarsky (2009) “Shortcomings in the Understanding of Why Cosmological Perturbations Look...",
         
