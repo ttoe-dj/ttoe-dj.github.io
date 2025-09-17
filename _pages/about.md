@@ -70,7 +70,7 @@ What efforts to avoid? Those that do not change credences, e.g., publish on AdS/
 
 #### Tools
 
-I'm exploring the use of [prediction markets](https://ttoe-dj.github.io/posts/category/prediction-markets/) to facilitate the process.
+I'm exploring the use of [prediction markets](https://manifold.markets/ttoe?tab=questions) to facilitate the process.
 
 I also value [negative evidences](https://ttoe-dj.github.io/posts/category/bullshit-in-physics/) that help avoid wasting efforts down wrong routes. 
 
