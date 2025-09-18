@@ -420,6 +420,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/whos-afraid-of-infinite-action/";
+            },},{id: "works-living-in-a-quantum-universe",
+          title: 'Living in a quantum universe',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/living-in-a-quantum-universe/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
