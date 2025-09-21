@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vaidman-2021-quot-many-worlds-interpretation-of-quantum-mechanics",
+        },{id: "post-notes-on-saunders-1993-quot-decoherence-relative-states-and-evolutionary-adaptation",
+        
+          title: "Notes on Saunders (1993) &quot;Decoherence, Relative States, and Evolutionary Adaptation”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Saunders1993/";
+          
+        },
+      },{id: "post-notes-on-vaidman-2021-quot-many-worlds-interpretation-of-quantum-mechanics",
         
           title: "Notes on Vaidman (2021) &quot;Many-Worlds Interpretation of Quantum Mechanics”",
         
