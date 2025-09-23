@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-saunders-1993-quot-decoherence-relative-states-and-evolutionary-adaptation",
+        },{id: "post-notes-on-page-1999-quot-can-quantum-cosmology-give-observational-consequences-of-many-worlds-quantum-theory",
+        
+          title: "Notes on Page (1999) &quot;Can Quantum Cosmology Give Observational Consequences of Many-Worlds Quantum...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Page2000/";
+          
+        },
+      },{id: "post-notes-on-saunders-1993-quot-decoherence-relative-states-and-evolutionary-adaptation",
         
           title: "Notes on Saunders (1993) &quot;Decoherence, Relative States, and Evolutionary Adaptation”",
         
