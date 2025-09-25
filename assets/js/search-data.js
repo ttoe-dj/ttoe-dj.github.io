@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-page-1999-quot-can-quantum-cosmology-give-observational-consequences-of-many-worlds-quantum-theory",
+        },{id: "post-notes-on-vaidman-1998-on-schizophrenic-experiences-of-the-neutron-or-why-we-should-believe-in-the-many-worlds-interpretation-of-quantum-theory",
+        
+          title: "Notes on Vaidman (1998) “On schizophrenic experiences of the neutron or why we...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Vaidman1998/";
+          
+        },
+      },{id: "post-notes-on-page-1999-quot-can-quantum-cosmology-give-observational-consequences-of-many-worlds-quantum-theory",
         
           title: "Notes on Page (1999) &quot;Can Quantum Cosmology Give Observational Consequences of Many-Worlds Quantum...",
         
