@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vaidman-1998-on-schizophrenic-experiences-of-the-neutron-or-why-we-should-believe-in-the-many-worlds-interpretation-of-quantum-theory",
+        },{id: "post-notes-on-wallace-2010-quot-decoherence-and-ontology-or-how-i-learned-to-stop-worrying-and-love-fapp",
+        
+          title: "Notes on Wallace (2010) &quot;Decoherence and Ontology, or How I Learned To Stop...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Wallace2010/";
+          
+        },
+      },{id: "post-notes-on-vaidman-1998-on-schizophrenic-experiences-of-the-neutron-or-why-we-should-believe-in-the-many-worlds-interpretation-of-quantum-theory",
         
           title: "Notes on Vaidman (1998) “On schizophrenic experiences of the neutron or why we...",
         
