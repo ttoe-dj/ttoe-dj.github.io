@@ -44,7 +44,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-wallace-2010-quot-decoherence-and-ontology-or-how-i-learned-to-stop-worrying-and-love-fapp",
+        },{id: "post-notes-on-vaidman-2025-probability-of-self-location-in-the-framework-of-the-many-worlds-interpretation",
+        
+          title: "Notes on Vaidman (2025) “Probability of Self-Location in the Framework of the Many-Worlds...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Vaidman2025/";
+          
+        },
+      },{id: "post-notes-on-kent-2014-quot-does-it-make-sense-to-speak-of-self-locating-uncertainty-in-the-universal-wave-function-remarks-on-sebens-and-carroll",
+        
+          title: "Notes on Kent (2014) &quot;Does it Make Sense to Speak of Self-Locating Uncertainty...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Kent2014/";
+          
+        },
+      },{id: "post-notes-on-sebens-amp-carroll-2018-self-locating-uncertainty-and-the-origin-of-probability-in-everettian-quantum-mechanics",
+        
+          title: "Notes on Sebens &amp; Carroll (2018) “Self-locating Uncertainty and the Origin of Probability...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Carroll2018/";
+          
+        },
+      },{id: "post-notes-on-wallace-2010-quot-decoherence-and-ontology-or-how-i-learned-to-stop-worrying-and-love-fapp",
         
           title: "Notes on Wallace (2010) &quot;Decoherence and Ontology, or How I Learned To Stop...",
         
