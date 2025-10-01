@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vaidman-2025-probability-of-self-location-in-the-framework-of-the-many-worlds-interpretation",
+        },{id: "post-notes-on-mcqueen-amp-vaidman-2019-quot-in-defence-of-the-self-location-uncertainty-account-of-probability-in-the-many-worlds-interpretation-quot",
+        
+          title: "Notes on McQueen &amp; Vaidman (2019) &quot;In defence of the self-location uncertainty account...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/McQueen2019/";
+          
+        },
+      },{id: "post-notes-on-vaidman-2025-probability-of-self-location-in-the-framework-of-the-many-worlds-interpretation",
         
           title: "Notes on Vaidman (2025) “Probability of Self-Location in the Framework of the Many-Worlds...",
         
