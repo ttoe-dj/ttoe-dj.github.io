@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-mcqueen-amp-vaidman-2019-quot-in-defence-of-the-self-location-uncertainty-account-of-probability-in-the-many-worlds-interpretation-quot",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/2025-10-02-Dawid2022/";
+          
+        },
+      },{id: "post-notes-on-mcqueen-amp-vaidman-2019-quot-in-defence-of-the-self-location-uncertainty-account-of-probability-in-the-many-worlds-interpretation-quot",
         
           title: "Notes on McQueen &amp; Vaidman (2019) &quot;In defence of the self-location uncertainty account...",
         
