@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-notes-on-dawid-amp-friederich-2022-epistemic-separability-and-everettian-branches-a-critique-of-sebens-and-carroll",
         
-          title: "",
+          title: "Notes on Dawid &amp; Friederich (2022) “Epistemic Separability and Everettian Branches : A...",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/posts/2025/2025-10-02-Dawid2022/";
+            window.location.href = "/posts/2025/Dawid2022/";
           
         },
       },{id: "post-notes-on-mcqueen-amp-vaidman-2019-quot-in-defence-of-the-self-location-uncertainty-account-of-probability-in-the-many-worlds-interpretation-quot",
