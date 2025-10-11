@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-tappenden-2017-quot-objective-probability-and-the-mind-body-relation",
+        },{id: "post-prediction-markets",
+        
+          title: "Prediction Markets",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/PredictionMarkets/";
+          
+        },
+      },{id: "post-notes-on-tappenden-2017-quot-objective-probability-and-the-mind-body-relation",
         
           title: "Notes on Tappenden (2017) &quot;Objective probability and the mind-body relation”",
         
