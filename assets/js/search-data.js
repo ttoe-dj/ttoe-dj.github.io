@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-prediction-markets",
+        },{id: "post-notes-on-tappenden-2023-quot-a-set-theoretic-metaphysics-for-wavefunction",
+        
+          title: "Notes on Tappenden (2023) &quot;A Set-Theoretic Metaphysics for Wavefunction”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Tappenden2023/";
+          
+        },
+      },{id: "post-prediction-markets",
         
           title: "Prediction Markets",
         
