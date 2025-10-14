@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-tappenden-2023-quot-a-set-theoretic-metaphysics-for-wavefunction",
+        },{id: "post-notes-on-kauffman-1980-systems-one-an-introduction-to-systems-thinking",
+        
+          title: "Notes on Kauffman (1980) “Systems One: An Introduction to Systems Thinking”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Kauffman1980/";
+          
+        },
+      },{id: "post-notes-on-tappenden-2023-quot-a-set-theoretic-metaphysics-for-wavefunction",
         
           title: "Notes on Tappenden (2023) &quot;A Set-Theoretic Metaphysics for Wavefunction”",
         
