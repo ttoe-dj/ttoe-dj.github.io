@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-kauffman-1980-systems-one-an-introduction-to-systems-thinking",
+        },{id: "post-notes-on-barrett-2005-quot-the-preferred-basis-problem-and-the-quantum-mechanics-of-everything-section-1",
+        
+          title: "Notes on Barrett (2005) &quot;The Preferred-Basis Problem and the Quantum Mechanics of Everything”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Barrett2005/";
+          
+        },
+      },{id: "post-notes-on-kauffman-1980-systems-one-an-introduction-to-systems-thinking",
         
           title: "Notes on Kauffman (1980) “Systems One: An Introduction to Systems Thinking”",
         
