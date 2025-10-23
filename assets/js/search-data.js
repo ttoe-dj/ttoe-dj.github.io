@@ -66,6 +66,28 @@ ninja.data = [{
             window.location.href = "/posts/2025/Zeh1970/";
           
         },
+      },{id: "post-notes-on-whitaker-2000-many-minds-and-single-mind-interpretations-of-quantum-theory",
+        
+          title: "Notes on Whitaker (2000) “Many Minds and Single Mind Interpretations of Quantum Theory”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Whitaker2000/";
+          
+        },
+      },{id: "post-notes-on-saunders-1996-comment-on-lockwood",
+        
+          title: "Notes on Saunders (1996) “Comment on Lockwood”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Saunders1996/";
+          
+        },
       },{id: "post-notes-on-barrett-2005-quot-the-preferred-basis-problem-and-the-quantum-mechanics-of-everything-section-1",
         
           title: "Notes on Barrett (2005) &quot;The Preferred-Basis Problem and the Quantum Mechanics of Everything”...",
