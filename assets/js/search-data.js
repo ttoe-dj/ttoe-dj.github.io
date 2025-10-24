@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-zeh-1981-2000-the-problem-of-conscious-observation-in-quantum-mechanical-description",
+        },{id: "post-notes-on-lockwood-2003-consciousness-and-the-quantum-world-putting-qualia-on-the-map",
+        
+          title: "Notes on Lockwood (2003) “Consciousness and the Quantum World: Putting Qualia on the...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Lockwood2003/";
+          
+        },
+      },{id: "post-notes-on-zeh-1981-2000-the-problem-of-conscious-observation-in-quantum-mechanical-description",
         
           title: "Notes on Zeh (1981/2000) “The Problem of Conscious Observation in Quantum Mechanical Description”...",
         
