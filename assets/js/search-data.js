@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/posts/2025/Lockwood2003/";
           
         },
+      },{id: "post-notes-on-hieronymi-2013-understanding-systems-science-a-visual-and-integrative-approach",
+        
+          title: "Notes on Hieronymi (2013) “Understanding Systems Science: A Visual and Integrative Approach”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Hieronymi2013/";
+          
+        },
       },{id: "post-notes-on-zeh-1981-2000-the-problem-of-conscious-observation-in-quantum-mechanical-description",
         
           title: "Notes on Zeh (1981/2000) “The Problem of Conscious Observation in Quantum Mechanical Description”...",
