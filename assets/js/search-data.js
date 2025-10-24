@@ -645,6 +645,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/living-in-a-quantum-universe/";
+            },},{id: "works-on-quantum-self-location",
+          title: 'On quantum self-location',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/on-quantum-self-location/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
