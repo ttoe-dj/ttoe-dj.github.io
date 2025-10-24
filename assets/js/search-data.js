@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-lockwood-2003-consciousness-and-the-quantum-world-putting-qualia-on-the-map",
+        },{id: "post-notes-on-papineau-1996-quot-many-minds-are-no-worse-than-one-quot",
+        
+          title: "Notes on Papineau (1996) &quot;Many Minds are No Worse than One&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Papineau1996/";
+          
+        },
+      },{id: "post-notes-on-lockwood-2003-consciousness-and-the-quantum-world-putting-qualia-on-the-map",
         
           title: "Notes on Lockwood (2003) “Consciousness and the Quantum World: Putting Qualia on the...",
         
