@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/posts/2025/Beer2000/";
           
         },
+      },{id: "post-notes-on-barvinsky-amp-kamenshchik-1995-preferred-basis-in-quantum-theory-and-the-problem-of-classicalization-of-the-quantum-universe",
+        
+          title: "Notes on Barvinsky &amp; Kamenshchik (1995) “Preferred basis in quantum theory and the...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Barvinsky1995/";
+          
+        },
       },{id: "post-notes-on-papineau-1996-quot-many-minds-are-no-worse-than-one-quot",
         
           title: "Notes on Papineau (1996) &quot;Many Minds are No Worse than One&quot;",
