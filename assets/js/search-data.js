@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-papineau-1996-quot-many-minds-are-no-worse-than-one-quot",
+        },{id: "post-notes-on-beer-2000-dynamical-approaches-to-cognitive-science",
+        
+          title: "Notes on Beer (2000) “Dynamical approaches to cognitive science”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Beer2000/";
+          
+        },
+      },{id: "post-notes-on-papineau-1996-quot-many-minds-are-no-worse-than-one-quot",
         
           title: "Notes on Papineau (1996) &quot;Many Minds are No Worse than One&quot;",
         
