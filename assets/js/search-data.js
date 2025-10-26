@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-beer-2000-dynamical-approaches-to-cognitive-science",
+        },{id: "post-notes-on-hemmo-amp-shenker-2022-the-preferred-basis-problem-in-the-many-worlds-interpretation-of-quantum-mechanics-why-decoherence-does-not-solve-it",
+        
+          title: "Notes on Hemmo &amp; Shenker (2022) “The preferred basis problem in the many-worlds...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Hemmo2022/";
+          
+        },
+      },{id: "post-notes-on-beer-2000-dynamical-approaches-to-cognitive-science",
         
           title: "Notes on Beer (2000) “Dynamical approaches to cognitive science”",
         
