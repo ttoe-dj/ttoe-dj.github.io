@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-hemmo-amp-shenker-2022-the-preferred-basis-problem-in-the-many-worlds-interpretation-of-quantum-mechanics-why-decoherence-does-not-solve-it",
+        },{id: "post-notes-on-sakaguchi-1997-against-against-many-worlds-interpretations",
+        
+          title: "Notes on Sakaguchi (1997) “Against ‘Against Many-Worlds Interpretations’”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Sakaguchi1997/";
+          
+        },
+      },{id: "post-notes-on-hemmo-amp-shenker-2022-the-preferred-basis-problem-in-the-many-worlds-interpretation-of-quantum-mechanics-why-decoherence-does-not-solve-it",
         
           title: "Notes on Hemmo &amp; Shenker (2022) “The preferred basis problem in the many-worlds...",
         
