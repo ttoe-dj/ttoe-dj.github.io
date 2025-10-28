@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-sakaguchi-1997-against-against-many-worlds-interpretations",
+        },{id: "post-notes-on-butterfield-1996-whither-the-minds",
+        
+          title: "Notes on Butterfield (1996) “Whither the Minds?”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Butterfield1996/";
+          
+        },
+      },{id: "post-notes-on-sakaguchi-1997-against-against-many-worlds-interpretations",
         
           title: "Notes on Sakaguchi (1997) “Against ‘Against Many-Worlds Interpretations’”",
         
