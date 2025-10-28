@@ -3,7 +3,7 @@ layout: work-page
 title: 'On quantum self-location'
 author: Ding Jia
 date: 2025-10-24
-cover: assets/img/covers/2025-EP_experience-physics_v1.0_preview_202534.jpeg
+cover: assets/img/covers/2025_EP_on-self-location_v1.1_preview_20251024.jpeg
 categories: article
 tags: quantum experience self-location observer history
 ---
@@ -18,7 +18,9 @@ Abstract: Identical copies of an observer can exist at different space(time) loc
 
 ##### Version history
 
-- Original versions: Article v1.0
+- Original version: Article v1.0
+
+- Article v1.1: changed color of a hyperlink in a footnote to make it visible
 
 ##### Access
 
