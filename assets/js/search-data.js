@@ -44,7 +44,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-butterfield-1996-whither-the-minds",
+        },{id: "post-notes-on-loewer-1996-comment-on-lockwood",
+        
+          title: "Notes on Loewer (1996) “Comment on Lockwood”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Loewer1996/";
+          
+        },
+      },{id: "post-notes-on-deutsch-1996-replies-comment-on-lockwood",
+        
+          title: "Notes on Deutsch (1996) “Replies: Comment on Lockwood”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Deutsch1996/";
+          
+        },
+      },{id: "post-notes-on-brown-1996-mindful-of-quantum-possibilities",
+        
+          title: "Notes on Brown (1996) “Mindful of Quantum Possibilities”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Brown1996/";
+          
+        },
+      },{id: "post-notes-on-butterfield-1996-whither-the-minds",
         
           title: "Notes on Butterfield (1996) “Whither the Minds?”",
         
