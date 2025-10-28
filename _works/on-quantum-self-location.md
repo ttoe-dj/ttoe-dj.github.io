@@ -26,7 +26,7 @@ Abstract: Identical copies of an observer can exist at different space(time) loc
 
 Instead of giving the copyright for free to a publisher, I sell this paper myself for profit. 
 
-Visit the [ResearchGate page](https://doi.org/10.13140/RG.2.2.20061.06885) for a preview of the paper. 
+Visit the [ResearchGate page](https://www.researchgate.net/publication/396885717_On_quantum_self-location) for a preview of the paper. 
 
 Click the button below to purchase the full paper (the cost covers the current and all future versions of the paper).
 
