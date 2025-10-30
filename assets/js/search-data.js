@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-lockwood-1996-quot-many-minds-interpretations-of-quantum-mechanics",
+        },{id: "post-notes-on-lockwood-1996-quot-39-many-minds-39-interpretations-of-quantum-mechanics",
         
-          title: "Notes on Lockwood (1996) &quot;Many Minds Interpretations of Quantum Mechanics”",
+          title: "Notes on Lockwood (1996) &quot;&#39;Many Minds&#39; Interpretations of Quantum Mechanics”",
         
         description: "",
         section: "Posts",
