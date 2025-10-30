@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-loewer-1996-comment-on-lockwood",
+        },{id: "post-notes-on-albert-amp-loewer-1988-interpreting-the-many-worlds-interpretation",
+        
+          title: "Notes on Albert &amp; Loewer (1988) “Interpreting the many worlds interpretation”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Albert1988/";
+          
+        },
+      },{id: "post-notes-on-loewer-1996-comment-on-lockwood",
         
           title: "Notes on Loewer (1996) “Comment on Lockwood”",
         
