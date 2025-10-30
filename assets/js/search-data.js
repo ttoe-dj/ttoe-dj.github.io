@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-lockwood1996",
+        },{id: "post-",
         
-          title: "Lockwood1996",
+          title: "",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/posts/2025/Lockwood1996/";
+            window.location.href = "/posts/2025/2025-10-30-Lockwood1996/";
           
         },
       },{id: "post-notes-on-albert-amp-loewer-1988-interpreting-the-many-worlds-interpretation",
