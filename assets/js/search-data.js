@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/posts/2025/Evans2025/";
           
         },
+      },{id: "post-notes-on-camilleri-2009-a-history-of-entanglement-decoherence-and-the-interpretation-problem",
+        
+          title: "Notes on Camilleri (2009) “A history of entanglement: Decoherence and the interpretation problem”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Camilleri2009/";
+          
+        },
       },{id: "post-notes-on-albert-amp-loewer-1988-interpreting-the-many-worlds-interpretation",
         
           title: "Notes on Albert &amp; Loewer (1988) “Interpreting the many worlds interpretation”",
