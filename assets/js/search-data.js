@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/posts/2025/Lockwood1996/";
           
         },
+      },{id: "post-notes-on-evans-2025-quot-is-quantum-mechanics-merely-a-theory-for-us",
+        
+          title: "Notes on Evans (2025) &quot;Is Quantum Mechanics Merely a Theory for us?”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Evans2025/";
+          
+        },
       },{id: "post-notes-on-albert-amp-loewer-1988-interpreting-the-many-worlds-interpretation",
         
           title: "Notes on Albert &amp; Loewer (1988) “Interpreting the many worlds interpretation”",
