@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-lockwood-1996-quot-39-many-minds-39-interpretations-of-quantum-mechanics",
+        },{id: "post-notes-on-misner-thorne-amp-zurek-2009-john-wheeler-relativity-and-quantum-information",
+        
+          title: "Notes on Misner, Thorne &amp; Zurek (2009) “John Wheeler, relativity, and quantum information”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Misner2009/";
+          
+        },
+      },{id: "post-notes-on-lockwood-1996-quot-39-many-minds-39-interpretations-of-quantum-mechanics",
         
           title: "Notes on Lockwood (1996) &quot;&#39;Many Minds&#39; Interpretations of Quantum Mechanics”",
         
