@@ -804,6 +804,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/on-quantum-self-location/";
+            },},{id: "works-what-are-quantum-systems",
+          title: 'What are quantum systems?',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/what-are-quantum-systems/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
