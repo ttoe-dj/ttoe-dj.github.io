@@ -804,11 +804,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/on-quantum-self-location/";
-            },},{id: "works-what-are-quantum-systems",
-          title: 'What are quantum systems?',
+            },},{id: "works-what-are-physical-systems",
+          title: 'What are physical systems?',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/what-are-quantum-systems/";
+              window.location.href = "/works/what-are-physical-systems/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
