@@ -30,4 +30,4 @@ Click the button below to purchase the full paper (the cost covers the current a
 
 <script type="text/javascript" src="https://payhip.com/payhip.js"></script> 
 
-<a href="https://payhip.com/b/CM4tf" class="payhip-buy-button" data-theme="green" data-product="fnCM4tfHY1">Purchase full paper</a>
+<a href="https://payhip.com/b/CM4tf" class="payhip-buy-button" data-theme="green" data-product="CM4tf">Purchase full paper</a>
