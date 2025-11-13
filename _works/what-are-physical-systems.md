@@ -1,6 +1,6 @@
 ---    
 layout: work-page
-title: 'What are quantum systems?'
+title: 'What are physical systems?'
 author: Ding Jia
 date: 2025-11-13
 cover: assets/img/covers/2025_EP_what-systems_v1.0_preview_20251113.jpeg
