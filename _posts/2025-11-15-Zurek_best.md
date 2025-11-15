@@ -5,7 +5,7 @@ date: 2025-11-15
 description: 
 tags: experience information preferred-basis decoherence
 categories: polemics
-featured: true
+featured: false
 ---
 
 "The brutally honest answer is, 'I don't know.'"
