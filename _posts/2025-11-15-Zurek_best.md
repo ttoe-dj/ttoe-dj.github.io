@@ -12,4 +12,4 @@ featured: false
 
 "Not quite to my own satisfaction."
 
-These are quotes from Zurek's chapter in the book [Conceptual Problems of Quantum Gravity]{https://link.springer.com/book/9780817634438} -- I get the sense that these are probably the best I could ever read from him.
+These are quotes from Zurek's chapter in the book [Conceptual Problems of Quantum Gravity](https://link.springer.com/book/9780817634438) -- I get the sense that these are probably the best I could ever read from him.
