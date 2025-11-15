@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-misner-thorne-amp-zurek-2009-john-wheeler-relativity-and-quantum-information",
+        },{id: "post-zurek-at-his-best",
+        
+          title: "Zurek at his best",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Zurek_best/";
+          
+        },
+      },{id: "post-notes-on-misner-thorne-amp-zurek-2009-john-wheeler-relativity-and-quantum-information",
         
           title: "Notes on Misner, Thorne &amp; Zurek (2009) “John Wheeler, relativity, and quantum information”...",
         
