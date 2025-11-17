@@ -820,6 +820,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/what-are-physical-systems/";
+            },},{id: "works-against-quantum-mereology",
+          title: 'Against quantum mereology',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/against_quantum-mereology/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
