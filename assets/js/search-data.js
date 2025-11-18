@@ -824,7 +824,7 @@ ninja.data = [{
           title: 'Against quantum mereology',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/against_quantum-mereology/";
+              window.location.href = "/works/against-quantum-mereology/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
