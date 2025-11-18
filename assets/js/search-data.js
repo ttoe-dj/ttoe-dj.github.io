@@ -700,9 +700,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/singularity/";
-            },},{id: "projects-what-is-a-quantum-system",
-          title: 'What is a quantum system?',
-          description: "This page is under construction",
+            },},{id: "projects-what-are-physical-systems",
+          title: 'What are physical systems?',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/system/";
             },},{id: "works-consistency-issue-for-anisotropic-quantum-cosmology",
