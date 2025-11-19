@@ -685,6 +685,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/nonsmooth/";
+            },},{id: "projects-modeling-observers",
+          title: 'Modeling observers',
+          description: "This page is under construction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/observers/";
             },},{id: "projects-foundation-of-path-integrals",
           title: 'Foundation of path integrals',
           description: "This page is under construction",
