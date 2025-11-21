@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-page-2021-does-decoherence-make-observations-classical",
+        },{id: "post-notes-on-zurek-1991-quot-decoherence-and-the-transition-from-quantum-to-classical",
+        
+          title: "Notes on Zurek (1991) &quot;Decoherence and the Transition from Quantum to Classical”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Zurek1991/";
+          
+        },
+      },{id: "post-notes-on-page-2021-does-decoherence-make-observations-classical",
         
           title: "Notes on Page (2021) “Does Decoherence Make Observations Classical?”",
         
