@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-zurek-at-his-best",
+        },{id: "post-notes-on-page-2021-does-decoherence-make-observations-classical",
+        
+          title: "Notes on Page (2021) “Does Decoherence Make Observations Classical?”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Page2021/";
+          
+        },
+      },{id: "post-zurek-at-his-best",
         
           title: "Zurek at his best",
         
