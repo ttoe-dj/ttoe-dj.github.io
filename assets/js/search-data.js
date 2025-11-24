@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-zurek-1991-quot-decoherence-and-the-transition-from-quantum-to-classical",
+        },{id: "post-notes-on-anderson-et-al-1993-negotiating-the-tricky-border-between-quantum-and-classical",
+        
+          title: "Notes on Anderson et al. (1993) “Negotiating the Tricky Border Between Quantum and...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Anderson1993/";
+          
+        },
+      },{id: "post-notes-on-zurek-1991-quot-decoherence-and-the-transition-from-quantum-to-classical",
         
           title: "Notes on Zurek (1991) &quot;Decoherence and the Transition from Quantum to Classical”",
         
