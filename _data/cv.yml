@@ -4,7 +4,7 @@
     - name: Full Name
       value: Ding Jia
     - name: Summary
-      value: Amateur theoretical physicist, trying to solve some real problems. See https://www.researchgate.net/profile/Ding-Jia-6?ev=prf_overview for my skills and expertise.
+      value: Amateur theoretical physicist, trying to solve some real problems.
 
 - title: Education
   type: time_table
@@ -27,3 +27,9 @@
   contents:
     - title: See my <a href="https://scholar.google.com/citations?hl=en&user=-dtm_74AAAAJ&view_op=list_works&sortby=pubdate">Google scholar profile</a> and <a href="https://www.researchgate.net/profile/Ding-Jia-6">ResearchGate profile</a>.
 
+- title: Skills and Expertise
+  type: list
+  contents:
+    - Criticizing Wojciech Zurek (beginner)
+    - Criticizing James Hartle (beginner)
+    - Criticizing fake Lorentzian quantum cosmology (intermediate)
