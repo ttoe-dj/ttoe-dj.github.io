@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-anderson-et-al-1993-negotiating-the-tricky-border-between-quantum-and-classical",
+        },{id: "post-notes-on-squires-1987-many-views-of-one-world-an-interpretation-of-quantum-theory",
+        
+          title: "Notes on Squires (1987) “Many views of one world—an interpretation of quantum theory”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Squires1987/";
+          
+        },
+      },{id: "post-notes-on-anderson-et-al-1993-negotiating-the-tricky-border-between-quantum-and-classical",
         
           title: "Notes on Anderson et al. (1993) “Negotiating the Tricky Border Between Quantum and...",
         
