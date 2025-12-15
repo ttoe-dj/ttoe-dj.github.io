@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/posts/2025/Thompson2025/";
           
         },
+      },{id: "post-notes-on-tegmark-2000-importance-of-quantum-decoherence-in-brain-processes",
+        
+          title: "Notes on Tegmark (2000) “Importance of quantum decoherence in brain processes”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Tegmark2000/";
+          
+        },
       },{id: "post-notes-on-squires-1987-many-views-of-one-world-an-interpretation-of-quantum-theory",
         
           title: "Notes on Squires (1987) “Many views of one world—an interpretation of quantum theory”...",
