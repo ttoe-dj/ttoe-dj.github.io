@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-squires-1987-many-views-of-one-world-an-interpretation-of-quantum-theory",
+        },{id: "post-notes-on-thompson-2025-quot-précis-of-the-blind-spot-why-science-cannot-ignore-human-experience",
+        
+          title: "Notes on Thompson (2025) &quot;Précis of The Blind Spot: Why Science Cannot Ignore...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Thompson2025/";
+          
+        },
+      },{id: "post-notes-on-squires-1987-many-views-of-one-world-an-interpretation-of-quantum-theory",
         
           title: "Notes on Squires (1987) “Many views of one world—an interpretation of quantum theory”...",
         
