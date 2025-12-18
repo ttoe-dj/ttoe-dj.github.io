@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-thompson-2025-quot-précis-of-the-blind-spot-why-science-cannot-ignore-human-experience",
+        },{id: "post-notes-on-beer-amp-williams-2015-information-processing-and-dynamics-in-minimally-cognitive-agents",
+        
+          title: "Notes on Beer &amp; Williams (2015) “Information processing and dynamics in minimally cognitive...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Beer2015/";
+          
+        },
+      },{id: "post-notes-on-thompson-2025-quot-précis-of-the-blind-spot-why-science-cannot-ignore-human-experience",
         
           title: "Notes on Thompson (2025) &quot;Précis of The Blind Spot: Why Science Cannot Ignore...",
         
