@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-beer-amp-williams-2015-information-processing-and-dynamics-in-minimally-cognitive-agents",
+        },{id: "post-notes-on-agmon-amp-spangler-2020-a-multi-scale-approach-to-modeling-e-coli-chemotaxis",
+        
+          title: "Notes on Agmon &amp; Spangler (2020) “A Multi-Scale Approach to Modeling E. coli...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Agmon2020/";
+          
+        },
+      },{id: "post-notes-on-beer-amp-williams-2015-information-processing-and-dynamics-in-minimally-cognitive-agents",
         
           title: "Notes on Beer &amp; Williams (2015) “Information processing and dynamics in minimally cognitive...",
         
