@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-agmon-amp-spangler-2020-a-multi-scale-approach-to-modeling-e-coli-chemotaxis",
+        },{id: "post-notes-on-kent-2018-quanta-and-qualia",
+        
+          title: "Notes on Kent (2018) “Quanta and Qualia”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2025/Kent2018/";
+          
+        },
+      },{id: "post-notes-on-agmon-amp-spangler-2020-a-multi-scale-approach-to-modeling-e-coli-chemotaxis",
         
           title: "Notes on Agmon &amp; Spangler (2020) “A Multi-Scale Approach to Modeling E. coli...",
         
