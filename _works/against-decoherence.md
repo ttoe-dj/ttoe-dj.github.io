@@ -3,7 +3,7 @@ layout: work-page
 title: Against decoherence
 author: Ding Jia
 date: 2025-12-23
-cover: assets/img/covers/2025_EP_against-decoherence_v1.0_20251223.jpeg
+cover: assets/img/covers/2025_EP_against-decoherence_v1.0_20251223.jpg
 categories: article
 tags: experience quantum decoherence preferred-basis life
 ---
