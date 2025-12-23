@@ -3,7 +3,7 @@ layout: work-page
 title: Physics, Experience, Life. II. Quantum toy models of life
 author: Ding Jia
 date: 2024-12-12
-cover: assets/img/covers/2024_BC-EP_physics-life_v1.1_preview_20241230.jpeg
+cover: assets/img/covers/2024_BC-EP_physics-life_v2.0.jpeg
 categories: article
 tags: autopoiesis experience life physics quantum-models-of-life
 ---
