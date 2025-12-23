@@ -20,9 +20,9 @@ In the understanding of this model, the life dynamics of living systems forms th
 
 ##### Version history
 
-- Original versions: Article v1.0
-
+- Article v1.0: original version
 - Article v1.1: minor updates to improve presentation and correct typos
+- Article v2.0: corrected a mistake about the dynamics in other basis by a new proof that only the computational basis vector states are preserved under the dynamics; added references for outlooks on quantum gravity
 
 ##### Access
 
