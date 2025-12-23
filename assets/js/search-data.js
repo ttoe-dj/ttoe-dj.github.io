@@ -929,6 +929,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/against-quantum-mereology/";
+            },},{id: "works-against-decoherence",
+          title: 'Against decoherence',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/against-decoherence/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
