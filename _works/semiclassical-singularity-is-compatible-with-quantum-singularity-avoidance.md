@@ -1,13 +1,13 @@
 ---    
 layout: work-page
 title: Semiclassical singularity is compatible with quantum singularity avoidance
-# redirect_from: 
-#   - /works/test
 author: Ding Jia
 date: 2023-10-02
 cover: assets/img/covers/2023_DL-BC_semiclassical-avoidance_v1.2_preview_2025216.jpeg
 categories: article
 tags: bounce-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity quantum-gravity saddle-point semiclassical-approximation singularity
+# redirect_from: 
+#   - /works/2023semiclassical
 ---
 
 ##### Description
