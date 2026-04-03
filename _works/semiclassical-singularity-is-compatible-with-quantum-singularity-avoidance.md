@@ -1,6 +1,8 @@
 ---    
 layout: work-page
 title: Semiclassical singularity is compatible with quantum singularity avoidance
+redirect_from: 
+  - /works/test
 author: Ding Jia
 date: 2023-10-02
 cover: assets/img/covers/2023_DL-BC_semiclassical-avoidance_v1.2_preview_2025216.jpeg
