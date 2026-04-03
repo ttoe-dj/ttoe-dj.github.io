@@ -6,6 +6,8 @@ date: 2025-06-23
 cover: assets/img/covers/2025_DL_BC_nonsmooth-relativity_v1.0_preview_2025622.jpeg
 categories: article
 tags: black-hole bouncing-cosmology Lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
+redirect_from: 
+  - /works/2025nonsmooth
 ---
 
 ##### Description
