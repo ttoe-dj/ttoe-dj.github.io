@@ -6,6 +6,8 @@ date: 2024-04-03
 cover: assets/img/covers/2024_DL-BC_truly-geometries_v1.0_preview_202443.jpeg
 categories: article
 tags: bouncing-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity picard-lefschetz quantum-cosmology quantum-gravity saddle-point semiclassical-approximation singularity
+redirect_from: 
+  - /works/2024truly
 ---
 
 ##### Description
