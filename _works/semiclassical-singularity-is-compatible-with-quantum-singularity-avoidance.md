@@ -8,6 +8,7 @@ categories: article
 tags: bounce-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity quantum-gravity saddle-point semiclassical-approximation singularity
 redirect_from: 
   - /works/2023semiclassical
+  - /works/2023semiclassical/
 ---
 
 ##### Description
