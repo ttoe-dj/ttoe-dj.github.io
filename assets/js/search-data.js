@@ -934,6 +934,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/against-decoherence/";
+            },},{id: "works-who-s-afraid-of-singularity",
+          title: 'Who’s afraid of singularity?',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/2026singular/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
