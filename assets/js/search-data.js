@@ -939,6 +939,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/2026singular/";
+            },},{id: "works-does-matter-bounce-if-spacetime-bounces",
+          title: 'Does matter bounce if spacetime bounces?',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/2026does/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
