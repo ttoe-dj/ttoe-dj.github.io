@@ -3,7 +3,7 @@ layout: work-page
 title: Nonsmooth mechanics for general relativity
 author: Ding Jia
 date: 2025-06-23
-cover: assets/img/covers/2025_DL_BC_nonsmooth-relativity_v1.0_preview_2025622.jpeg
+cover: assets/img/covers/2025_DL_BC_nonsmooth-relativity_v1.1.jpeg
 categories: article
 tags: black-hole bouncing-cosmology Lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
 redirect_from: 
@@ -20,7 +20,8 @@ Abstract: We study relativistic matter and gravitational fields subject to inequ
 
 ##### Version history
 
-- Original versions: Article v1.0
+- Article v1.0: original version
+- Article v1.1: correct typos; clarify jump conditions
 
 ##### Access
 
