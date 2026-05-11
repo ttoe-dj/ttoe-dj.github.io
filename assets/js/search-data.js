@@ -890,7 +890,7 @@ ninja.data = [{
           section: "Works",handler: () => {
               window.location.href = "/works/bullshit-in-physics-everett-1957/";
             },},{id: "works-nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix",
-          title: 'Nonsmooth mechanics for cosmology - Biaxial Bianchi IX',
+          title: 'Nonsmooth mechanics for cosmology : Biaxial Bianchi IX',
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix/";
@@ -934,8 +934,8 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/against-decoherence/";
-            },},{id: "works-who-s-afraid-of-singularity",
-          title: 'Who’s afraid of singularity?',
+            },},{id: "works-singular-bouncing-black-holes-a-new-paradigm",
+          title: 'Singular bouncing black holes: a new paradigm',
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/2026singular/";
@@ -944,6 +944,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/2026does/";
+            },},{id: "works-in-defense-of-coordinates-against-rovelli-1991",
+          title: 'In defense of coordinates: against Rovelli 1991',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/2026in/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
