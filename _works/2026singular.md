@@ -1,6 +1,6 @@
 ---    
 layout: work-page
-title: Who’s afraid of singularity?
+title: "Singular bouncing black holes: a new paradigm"
 author: Ding Jia
 date: 2026-04-03
 cover: assets/img/covers/2026_DL_BC_singular-paradigm_v1.0.jpg
