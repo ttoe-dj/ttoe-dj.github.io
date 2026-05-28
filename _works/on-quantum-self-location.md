@@ -6,6 +6,8 @@ date: 2025-10-24
 cover: assets/img/covers/2025_EP_on-self-location_v1.1_preview_20251024.jpeg
 categories: article
 tags: quantum experience self-location observer history
+redirect_from:
+  - /works/2025onlocation
 ---
 
 ##### Description

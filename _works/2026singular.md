@@ -6,6 +6,8 @@ date: 2026-04-03
 cover: assets/img/covers/2026_DL_BC_singular-paradigm_v1.0.jpg
 categories: article
 tags: black-hole lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity lorentzian
+redirect_from:
+  - /works/2026singularparadigm
 ---
 
 ##### Description

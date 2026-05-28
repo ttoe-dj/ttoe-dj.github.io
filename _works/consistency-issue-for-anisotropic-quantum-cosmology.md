@@ -7,6 +7,7 @@ cover: assets/img/covers/2023_BC_consistency-cosmology_v1.0_preview_2023118.jpeg
 categories: article
 tags: anisotropy biaxial-bianchi-ix boundary-condition cosmology holomorphic-gradient-flow lorentzian-path-integral lorentzian-quantum-gravity picard-lefschetz quantum-cosmology quantum-gravity
 redirect_from:
+  - /works/2023consistencycosmology
   - /product/consistency-issue-for-anisotropic-quantum-cosmology/
 ---
 

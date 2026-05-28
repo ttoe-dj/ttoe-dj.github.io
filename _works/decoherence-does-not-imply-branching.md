@@ -7,6 +7,7 @@ cover: assets/img/covers/2024-EP_decoherence-branching_preview_202428.jpeg
 categories: article
 tags: branching decoherence decoherent-histories everrettian-interpretation experience histories
 redirect_from:
+  - /works/2024decoherencebranching
   - /product/decoherence-does-not-imply-branching/
 ---
 

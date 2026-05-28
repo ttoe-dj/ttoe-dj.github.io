@@ -7,6 +7,7 @@ cover: assets/img/covers/2023_DL_lightcone-order_v1.1_20231028.jpeg
 categories: article
 tags: causal-structure lightcone-structure lorentzian-path-integral lorentzian-quantum-gravity monte-carlo path-integral quantumg-gravity regge-calculus simplicial-gravity simplicial-quantum-gravity time-order
 redirect_from:
+  - /works/2023lightconeorder
   - /product/lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order/
 ---
 

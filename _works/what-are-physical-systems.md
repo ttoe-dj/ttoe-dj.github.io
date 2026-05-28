@@ -6,6 +6,8 @@ date: 2025-11-13
 cover: assets/img/covers/2025_EP_what-systems_v1.0_preview_20251113.jpeg
 categories: article
 tags: quantum experience system observer history gravity
+redirect_from:
+  - /works/2025whatsystems
 ---
 
 ##### Description

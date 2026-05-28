@@ -6,6 +6,8 @@ date: 2025-11-17
 cover: assets/img/covers/2025_EP_against-mereology_v1.0_20251117.jpg
 categories: article
 tags: quantum system
+redirect_from:
+  - /works/2025againstmereology
 ---
 
 ##### Description

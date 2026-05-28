@@ -7,6 +7,7 @@ cover: assets/img/covers/2025_DL_BC_whos-singularity_v1.0_preview_2025531.jpeg
 categories: article
 tags: black-hole cosmology lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
 redirect_from: 
+  - /works/2025whosingularity
   - /works/2025who
   - /product/whos-afraid-of-singularity/
 ---

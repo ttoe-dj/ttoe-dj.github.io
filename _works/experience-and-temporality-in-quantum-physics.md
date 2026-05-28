@@ -7,6 +7,7 @@ cover: assets/img/covers/2025-EP_experience-physics_v1.0_preview_202534.jpeg
 categories: article
 tags: experience quantum temporality time
 redirect_from:
+  - /works/2025experiencephysics
   - /product/experience-and-temporality-in-quantum-physics/
 ---
 

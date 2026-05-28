@@ -7,6 +7,7 @@ cover: assets/img/covers/2024_BC-EP_physics-life_v2.0.jpg
 categories: article
 tags: autopoiesis experience life physics quantum-models-of-life
 redirect_from:
+  - /works/2024physicslife
   - /product/physics-experience-life-ii-quantum-toy-models-of-life/
 ---
 

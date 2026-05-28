@@ -7,6 +7,7 @@ cover: assets/img/covers/2025_DL_BC_nonsmooth-ix_v1.0_preview_2025531.jpeg
 categories: article
 tags: biaxial-bianchi-ix cosmology lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
 redirect_from: 
+  - /works/2025nonsmoothix
   - /works/2025nonsmoothx
   - /product/nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix/
 ---

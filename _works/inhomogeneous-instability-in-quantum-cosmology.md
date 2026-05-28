@@ -7,6 +7,7 @@ cover: assets/img/covers/2023_BC_inhomogeneous-cosmology_v1.0_preview_20231129.j
 categories: article
 tags: boundary-condition cosmology holomorphic-gradient-flow inhomogeneity lorentzian-path-integral lorentzian-quantum-gravity picard-lefschetz quantum-cosmology quantum-gravity
 redirect_from:
+  - /works/2023inhomogeneouscosmology
   - /product/inhomogeneous-instability-in-quantum-cosmology/
 ---
 

@@ -7,6 +7,7 @@ cover: assets/img/covers/2025_BS_Everett-1957_v1.0_preview_2025531.jpeg
 categories: article
 tags: bullshit many-worlds quantum-foundations
 redirect_from:
+  - /works/2025bullshit1957
   - /product/bullshit-in-physics-everett-1957/
 ---
 

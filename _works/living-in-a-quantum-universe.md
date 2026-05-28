@@ -6,6 +6,8 @@ date: 2025-09-18
 cover: assets/img/covers/2025_BC-EP_living-universe_v1.0_preview_2025918.jpeg
 categories: article
 tags: cosmology quantum experience quantum-gravity observer history
+redirect_from:
+  - /works/2025livinguniverse
 ---
 
 ##### Description
