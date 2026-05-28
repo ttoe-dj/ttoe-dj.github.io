@@ -8,6 +8,7 @@ categories: article
 tags: black-hole cosmology lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
 redirect_from: 
   - /works/2025who
+  - /product/whos-afraid-of-singularity/
 ---
 
 ##### Description

@@ -8,6 +8,7 @@ categories: article
 tags: black-hole bouncing-cosmology Lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
 redirect_from: 
   - /works/2025nonsmooth
+  - /product/nonsmooth-mechanics-for-general-relativity/
 ---
 
 ##### Description

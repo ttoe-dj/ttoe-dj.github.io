@@ -8,6 +8,7 @@ categories: article
 tags: bouncing-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity picard-lefschetz quantum-cosmology quantum-gravity saddle-point semiclassical-approximation singularity
 redirect_from: 
   - /works/2024truly
+  - /product/truly-lorentzian-quantum-cosmology-ii-exact-formula-and-effective-geometries/
 ---
 
 ##### Description

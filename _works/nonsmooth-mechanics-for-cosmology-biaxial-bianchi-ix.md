@@ -8,6 +8,7 @@ categories: article
 tags: biaxial-bianchi-ix cosmology lorentzian-path-integral nonsmooth-mechanics quantum-gravity singularity
 redirect_from: 
   - /works/2025nonsmoothx
+  - /product/nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix/
 ---
 
 ##### Description

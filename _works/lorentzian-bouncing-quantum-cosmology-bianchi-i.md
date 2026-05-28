@@ -6,6 +6,8 @@ date: 2023-12-31
 cover: assets/img/covers/2023_DL-BC_Lorentzian-Bianchi-I_preview_20231231.jpeg
 categories: article
 tags: bianchi-i bouncing-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity picard-lefschetz quantum-cosmology quantum-gravity saddle-point semiclassical-approximation singularity
+redirect_from:
+  - /product/lorentzian-bouncing-quantum-cosmology-bianchi-i/
 ---
 
 ##### Description

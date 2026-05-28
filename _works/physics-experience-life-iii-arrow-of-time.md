@@ -6,6 +6,8 @@ date: 2024-12-12
 cover: assets/img/covers/2024-02_physics_time_preview_20241212.jpeg
 categories: article
 tags: arrow-of-time experience life physics quantum-models-of-life
+redirect_from:
+  - /product/physics-experience-life-iii-arrow-of-time/
 ---
 
 ##### Description

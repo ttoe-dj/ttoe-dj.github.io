@@ -6,6 +6,8 @@ date: 2023-10-17
 cover: assets/img/covers/2023_DL_quantum-order_v1.0_20231017.jpeg
 categories: article
 tags: causal-structure lorentzian-path-integral quantum-gravity monte-carlo path-integral quantumg-gravity regge-calculus simplicial-gravity simplicial-quantum-gravity time-order
+redirect_from:
+  - /product/quantum-gravity-and-time-order/
 ---
 
 ##### Description

@@ -6,6 +6,8 @@ date: 2025-03-04
 cover: assets/img/covers/2025-EP_experience-physics_v1.0_preview_202534.jpeg
 categories: article
 tags: experience quantum temporality time
+redirect_from:
+  - /product/experience-and-temporality-in-quantum-physics/
 ---
 
 ##### Description

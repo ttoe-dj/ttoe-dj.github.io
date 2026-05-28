@@ -6,6 +6,8 @@ date: 2023-11-01
 cover: assets/img/covers/2023_BC-EP_indifference-universe_v1.0_2023111.jpeg
 categories: article
 tags: bouncing-cosmology boundary-condition cosmology empirical-prescription indifference-condition minisuperspace path-integral quantum-cosmology
+redirect_from:
+  - /product/indifference-boundary-condition-for-the-universe/
 ---
 
 ##### Description

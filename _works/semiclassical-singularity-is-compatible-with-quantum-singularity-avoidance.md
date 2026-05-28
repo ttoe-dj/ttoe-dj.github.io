@@ -9,6 +9,7 @@ tags: bounce-cosmology boundary-condition cosmology effective-spacetime lorentzi
 redirect_from: 
   - /works/2023semiclassical
   - /works/2023semiclassical/
+  - /product/semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance/
 ---
 
 ##### Description

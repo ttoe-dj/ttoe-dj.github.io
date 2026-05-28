@@ -8,6 +8,7 @@ categories: article
 tags: bouncing-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity quantum-cosmology quantum-gravity saddle-point semiclassical-approximation singularity
 redirect_from: 
   - /works/2025trulysachs
+  - /product/truly-lorentzian-quantum-cosmology-iv-kantowski-sachs/
 ---
 
 ##### Description

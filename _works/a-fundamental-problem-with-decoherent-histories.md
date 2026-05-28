@@ -6,6 +6,8 @@ date: 2024-02-07
 cover: assets/img/covers/2024_EP_fundamental-histories_preview_202427.jpeg
 categories: article
 tags: decoherent-histories experience histories quantum-measurement
+redirect_from:
+  - /product/a-fundamental-problem-with-decoherent-histories/
 ---
 
 ##### Description
