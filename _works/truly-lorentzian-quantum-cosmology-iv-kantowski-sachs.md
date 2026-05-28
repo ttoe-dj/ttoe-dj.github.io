@@ -3,9 +3,11 @@ layout: work-page
 title: Truly Lorentzian quantum cosmology. IV. Kantowski-Sachs
 author: Ding Jia
 date: 2025-02-16
-cover: assets/img/covers/2025_DL_BC_truly-sachs_v1.0_preview_2025216.jpeg
+cover: assets/img/covers/2025_DL_BC_truly-sachs_v1.1.jpg
 categories: article
 tags: bouncing-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity quantum-cosmology quantum-gravity saddle-point semiclassical-approximation singularity
+redirect_from: 
+  - /works/2025trulysachs
 ---
 
 ##### Description
@@ -19,6 +21,8 @@ Abstract: In the game of billiards, two balls can be connected either by a direc
 ##### Version history
 
 - Original versions: Article v1.0; Notebook v1.0
+
+- Article v1.1: confirm that the bounce solutions obey variational inequalities
 
 ##### Access
 
