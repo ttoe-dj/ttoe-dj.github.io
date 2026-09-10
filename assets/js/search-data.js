@@ -713,127 +713,127 @@ ninja.data = [{
           title: 'Consistency issue for anisotropic quantum cosmology?',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/consistency-issue-for-anisotropic-quantum-cosmology/";
+              window.location.href = "/works/2023consistency/";
             },},{id: "works-semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance",
           title: 'Semiclassical singularity is compatible with quantum singularity avoidance',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/semiclassical-singularity-is-compatible-with-quantum-singularity-avoidance/";
+              window.location.href = "/works/2023semiclassical/";
             },},{id: "works-quantum-gravity-and-time-order",
           title: 'Quantum gravity and time order',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/quantum-gravity-and-time-order/";
+              window.location.href = "/works/2023quantum/";
             },},{id: "works-lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order",
           title: 'Lightcone constraint in 3D simplicial gravity - method and application to quantum time...',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/lightcone-constraint-in-3d-simplicial-gravity-method-and-application-to-quantum-time-order/";
+              window.location.href = "/works/2023lightcone/";
             },},{id: "works-indifference-boundary-condition-for-the-universe",
           title: 'Indifference boundary condition for the universe',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/indifference-boundary-condition-for-the-universe/";
+              window.location.href = "/works/2023indifference/";
             },},{id: "works-inhomogeneous-instability-in-quantum-cosmology",
           title: 'Inhomogeneous instability in quantum cosmology?',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/inhomogeneous-instability-in-quantum-cosmology/";
+              window.location.href = "/works/2023inhomogeneous/";
             },},{id: "works-lorentzian-bouncing-quantum-cosmology-bianchi-i",
           title: 'Lorentzian bouncing quantum cosmology - Bianchi I',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/lorentzian-bouncing-quantum-cosmology-bianchi-i/";
+              window.location.href = "/works/2023lorentzian/";
             },},{id: "works-a-fundamental-problem-with-decoherent-histories",
           title: 'A fundamental problem with decoherent histories',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/a-fundamental-problem-with-decoherent-histories/";
+              window.location.href = "/works/2024ahistories/";
             },},{id: "works-decoherence-does-not-imply-branching",
           title: 'Decoherence does not imply branching',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/decoherence-does-not-imply-branching/";
+              window.location.href = "/works/2024decoherence/";
             },},{id: "works-truly-lorentzian-quantum-cosmology-ii-exact-formula-and-effective-geometries",
           title: 'Truly Lorentzian quantum cosmology. II. Exact formula and effective geometries',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/truly-lorentzian-quantum-cosmology-ii-exact-formula-and-effective-geometries/";
+              window.location.href = "/works/2024trulygeometries/";
             },},{id: "works-truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling",
           title: 'Truly Lorentzian quantum cosmology. III. Scalar field coupling',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling/";
+              window.location.href = "/works/2024trulycoupling/";
             },},{id: "works-physics-experience-life-ii-quantum-toy-models-of-life",
           title: 'Physics, Experience, Life. II. Quantum toy models of life',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/physics-experience-life-ii-quantum-toy-models-of-life/";
+              window.location.href = "/works/2024physicslife/";
             },},{id: "works-physics-experience-life-iii-arrow-of-time",
           title: 'Physics, Experience, Life. III. Arrow of time',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/physics-experience-life-iii-arrow-of-time/";
+              window.location.href = "/works/2024physicstime/";
             },},{id: "works-truly-lorentzian-quantum-cosmology-iv-kantowski-sachs",
           title: 'Truly Lorentzian quantum cosmology. IV. Kantowski-Sachs',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/truly-lorentzian-quantum-cosmology-iv-kantowski-sachs/";
+              window.location.href = "/works/2025truly/";
             },},{id: "works-experience-and-temporality-in-quantum-physics",
           title: 'Experience and temporality in quantum physics',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/experience-and-temporality-in-quantum-physics/";
+              window.location.href = "/works/2025experience/";
             },},{id: "works-bullshit-in-physics-everett-1957",
           title: 'Bullshit in physics - Everett 1957',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/bullshit-in-physics-everett-1957/";
+              window.location.href = "/works/2025bullshit/";
             },},{id: "works-nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix",
           title: 'Nonsmooth mechanics for cosmology : Biaxial Bianchi IX',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/nonsmooth-mechanics-for-cosmology-biaxial-bianchi-ix/";
+              window.location.href = "/works/2025nonsmoothix/";
             },},{id: "works-who-s-afraid-of-singularity",
           title: 'Who’s afraid of singularity?',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/whos-afraid-of-singularity/";
+              window.location.href = "/works/2025who/";
             },},{id: "works-nonsmooth-mechanics-for-general-relativity",
           title: 'Nonsmooth mechanics for general relativity',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/nonsmooth-mechanics-for-general-relativity/";
+              window.location.href = "/works/2025nonsmoothrelativity/";
             },},{id: "works-who-s-afraid-of-infinite-action",
           title: 'Who’s afraid of infinite action?',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/whos-afraid-of-infinite-action/";
+              window.location.href = "/works/2025whoafraid/";
             },},{id: "works-living-in-a-quantum-universe",
           title: 'Living in a quantum universe',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/living-in-a-quantum-universe/";
+              window.location.href = "/works/2025living/";
             },},{id: "works-on-quantum-self-location",
           title: 'On quantum self-location',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/on-quantum-self-location/";
+              window.location.href = "/works/2025on/";
             },},{id: "works-what-are-physical-systems",
           title: 'What are physical systems?',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/what-are-physical-systems/";
+              window.location.href = "/works/2025what/";
             },},{id: "works-against-quantum-mereology",
           title: 'Against quantum mereology',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/against-quantum-mereology/";
+              window.location.href = "/works/2025againstquantum/";
             },},{id: "works-against-decoherence",
           title: 'Against decoherence',
           description: "",
           section: "Works",handler: () => {
-              window.location.href = "/works/against-decoherence/";
+              window.location.href = "/works/2025againstdecoherence/";
             },},{id: "works-singular-bouncing-black-holes-a-new-paradigm",
           title: 'Singular bouncing black holes: a new paradigm',
           description: "",
