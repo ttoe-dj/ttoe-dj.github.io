@@ -849,6 +849,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/2026in/";
+            },},{id: "works-singularity-and-lorentzianity",
+          title: 'Singularity and Lorentzianity',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/2026singularity/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
