@@ -7,6 +7,7 @@ cover: assets/img/covers/2024_DL-BC_truly-coupling_v2.0.jpg
 categories: article
 tags: bouncing-cosmology boundary-condition cosmology effective-spacetime lorentzian-path-integral lorentzian-quantum-gravity quantum-cosmology quantum-gravity saddle-point semiclassical-approximation singularity
 redirect_from: 
+  - /works/truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling/
   - /works/2024trulycoupling
   - /product/truly-lorentzian-quantum-cosmology-iii-scalar-field-coupling/
 ---
