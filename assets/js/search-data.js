@@ -854,6 +854,11 @@ ninja.data = [{
           description: "",
           section: "Works",handler: () => {
               window.location.href = "/works/2026singularity/";
+            },},{id: "works-eternal-quantum-universe",
+          title: 'Eternal Quantum Universe',
+          description: "",
+          section: "Works",handler: () => {
+              window.location.href = "/works/2026eternal/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
