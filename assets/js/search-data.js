@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-kent-2018-quanta-and-qualia",
+        },{id: "post-notes-on-vilenkin-1982-quot-creation-of-universes-from-nothing-quot",
+        
+          title: "Notes on Vilenkin (1982) &quot;Creation of Universes from Nothing&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin1982/";
+          
+        },
+      },{id: "post-notes-on-kent-2018-quanta-and-qualia",
         
           title: "Notes on Kent (2018) “Quanta and Qualia”",
         
