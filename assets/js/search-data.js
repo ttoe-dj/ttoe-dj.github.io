@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/posts/2026/Vilenkin1982/";
           
         },
+      },{id: "post-notes-on-del-campo-amp-vilenkin-1989-tunneling-wavefunction-for-an-anisotropic-universe",
+        
+          title: "Notes on Del Campo &amp; Vilenkin (1989) “Tunneling wavefunction for an anisotropic universe”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/DelCampo1989/";
+          
+        },
       },{id: "post-notes-on-kent-2018-quanta-and-qualia",
         
           title: "Notes on Kent (2018) “Quanta and Qualia”",
