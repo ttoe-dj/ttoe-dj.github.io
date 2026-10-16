@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-1982-quot-creation-of-universes-from-nothing-quot",
+        },{id: "post-notes-on-vilenkin-1983-birth-of-inflationary-universes",
+        
+          title: "Notes on Vilenkin (1983) “Birth of inflationary universes”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin1983/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-1982-quot-creation-of-universes-from-nothing-quot",
         
           title: "Notes on Vilenkin (1982) &quot;Creation of Universes from Nothing&quot;",
         
