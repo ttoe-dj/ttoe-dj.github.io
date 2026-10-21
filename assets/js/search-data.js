@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-1986-quot-boundary-conditions-in-quantum-cosmology-quot",
+        },{id: "post-notes-on-vilenkin-1988-quot-quantum-cosmology-and-the-initial-state-of-the-universe",
+        
+          title: "Notes on Vilenkin (1988) &quot;Quantum cosmology and the initial state of the Universe”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin1988/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-1986-quot-boundary-conditions-in-quantum-cosmology-quot",
         
           title: "Notes on Vilenkin (1986) &quot;Boundary conditions in quantum cosmology&quot;",
         
