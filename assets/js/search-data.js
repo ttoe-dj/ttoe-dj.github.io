@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-1993-quot-quantum-cosmology-quot",
+        },{id: "post-notes-on-vilenkin-1989-quot-interpretation-of-the-wave-function-of-the-universe-quot",
+        
+          title: "Notes on Vilenkin (1989) &quot;Interpretation of the wave function of the Universe&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin1989/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-1993-quot-quantum-cosmology-quot",
         
           title: "Notes on Vilenkin (1993) &quot;Quantum Cosmology&quot;",
         
