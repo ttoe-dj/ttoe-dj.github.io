@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-1988-quot-quantum-cosmology-and-the-initial-state-of-the-universe",
+        },{id: "post-notes-on-vilenkin-1993-quot-quantum-cosmology-quot",
+        
+          title: "Notes on Vilenkin (1993) &quot;Quantum Cosmology&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin1993/";
+          
+        },
+      },{id: "post-notes-on-vachaspati-amp-vilenkin-1988-uniqueness-of-the-tunneling-wave-function-of-the-universe",
+        
+          title: "Notes on Vachaspati &amp; Vilenkin (1988) “Uniqueness of the tunneling wave function of...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vachaspati1988/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-1988-quot-quantum-cosmology-and-the-initial-state-of-the-universe",
         
           title: "Notes on Vilenkin (1988) &quot;Quantum cosmology and the initial state of the Universe”...",
         
