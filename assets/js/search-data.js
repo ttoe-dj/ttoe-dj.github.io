@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-1994-quot-approaches-to-quantum-cosmology-quot",
+        },{id: "post-notes-on-vilenkin-1998-quot-wave-function-discord-quot",
+        
+          title: "Notes on Vilenkin (1998) &quot;Wave function discord&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin1998/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-1994-quot-approaches-to-quantum-cosmology-quot",
         
           title: "Notes on Vilenkin (1994) &quot;Approaches to Quantum Cosmology&quot;",
         
