@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-1998-quot-wave-function-discord-quot",
+        },{id: "post-notes-on-vilenkin-2003-quantum-cosmology-and-eternal-inflation",
+        
+          title: "Notes on Vilenkin (2003) “Quantum cosmology and eternal inflation”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin2003/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-1998-quot-wave-function-discord-quot",
         
           title: "Notes on Vilenkin (1998) &quot;Wave function discord&quot;",
         
