@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-2003-quantum-cosmology-and-eternal-inflation",
+        },{id: "post-notes-on-fanaras-amp-vilenkin-2022-the-tunneling-wavefunction-in-kantowski-sachs-quantum-cosmology",
+        
+          title: "Notes on Fanaras &amp; Vilenkin (2022) “The tunneling wavefunction in Kantowski‑Sachs quantum cosmology”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Fanaras2022/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-2003-quantum-cosmology-and-eternal-inflation",
         
           title: "Notes on Vilenkin (2003) “Quantum cosmology and eternal inflation”",
         
