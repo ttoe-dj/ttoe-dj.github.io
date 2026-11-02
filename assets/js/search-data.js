@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-fanaras-amp-vilenkin-2022-the-tunneling-wavefunction-in-kantowski-sachs-quantum-cosmology",
+        },{id: "post-notes-on-vilenkin-amp-yamada-2018-quot-tunneling-wave-function-of-the-universe-quot",
+        
+          title: "Notes on Vilenkin &amp; Yamada (2018) &quot;Tunneling Wave Function of the Universe&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin2018/";
+          
+        },
+      },{id: "post-notes-on-fanaras-amp-vilenkin-2022-the-tunneling-wavefunction-in-kantowski-sachs-quantum-cosmology",
         
           title: "Notes on Fanaras &amp; Vilenkin (2022) “The tunneling wavefunction in Kantowski‑Sachs quantum cosmology”...",
         
