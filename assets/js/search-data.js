@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-amp-yamada-2018-quot-tunneling-wave-function-of-the-universe-quot",
+        },{id: "post-notes-on-guth-amp-vilenkin-2025-on-quantum-creation-of-a-toroidal-universe",
+        
+          title: "Notes on Guth &amp; Vilenkin (2025) “On quantum creation of a toroidal universe”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Guth2025/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-amp-yamada-2018-quot-tunneling-wave-function-of-the-universe-quot",
         
           title: "Notes on Vilenkin &amp; Yamada (2018) &quot;Tunneling Wave Function of the Universe&quot;",
         
