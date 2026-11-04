@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-guth-amp-vilenkin-2025-on-quantum-creation-of-a-toroidal-universe",
+        },{id: "post-notes-on-wang-yamada-amp-vilenkin-2019-constraints-on-non-minimal-coupling-from-quantum-cosmology",
+        
+          title: "Notes on Wang, Yamada &amp; Vilenkin (2019) “Constraints on non-minimal coupling from quantum...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Wang2019/";
+          
+        },
+      },{id: "post-notes-on-guth-amp-vilenkin-2025-on-quantum-creation-of-a-toroidal-universe",
         
           title: "Notes on Guth &amp; Vilenkin (2025) “On quantum creation of a toroidal universe”...",
         
