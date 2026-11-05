@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-wang-yamada-amp-vilenkin-2019-constraints-on-non-minimal-coupling-from-quantum-cosmology",
+        },{id: "post-notes-on-vilenkin-1998-quot-singular-instantons-and-the-creation-of-open-universes-quot",
+        
+          title: "Notes on Vilenkin (1998) &quot;Singular instantons and the creation of open universes&quot;",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin1998/";
+          
+        },
+      },{id: "post-notes-on-wang-yamada-amp-vilenkin-2019-constraints-on-non-minimal-coupling-from-quantum-cosmology",
         
           title: "Notes on Wang, Yamada &amp; Vilenkin (2019) “Constraints on non-minimal coupling from quantum...",
         
