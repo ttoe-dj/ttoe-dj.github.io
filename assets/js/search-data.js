@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-vilenkin-1998-quot-singular-instantons-and-the-creation-of-open-universes-quot",
+        },{id: "post-notes-on-hong-vilenkin-amp-winitzki-2003-quot-particle-creation-in-a-tunneling-universe-ii-massive-particles-quot",
+        
+          title: "Notes on Hong, Vilenkin, &amp; Winitzki (2003) &quot;Particle creation in a tunneling universe....",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Hong2003/";
+          
+        },
+      },{id: "post-notes-on-vilenkin-1998-quot-singular-instantons-and-the-creation-of-open-universes-quot",
         
           title: "Notes on Vilenkin (1998) &quot;Singular instantons and the creation of open universes&quot;",
         
