@@ -119,15 +119,26 @@ def derive_tag(title):
     return f"{surname}{match.group(2)}"
 
 
+def existing_slugs():
+    slugs = set()
+    for path in POSTS_DIR.iterdir():
+        if not path.name.endswith(".md") or path.name.startswith("._"):
+            continue
+        match = re.match(r"^\d{4}-\d{2}-\d{2}-(.+)\.md$", path.name)
+        if match:
+            slugs.add(match.group(1))
+    return slugs
+
+
 def unique_path(tag, datestr):
-    candidate = POSTS_DIR / f"{datestr}-{tag}.md"
-    if not candidate.exists():
-        return candidate
+    taken = existing_slugs()
+    if tag not in taken:
+        return POSTS_DIR / f"{datestr}-{tag}.md"
     for letter in "bcdefghijklmnopqrstuvwxyz":
-        candidate = POSTS_DIR / f"{datestr}-{tag}{letter}.md"
-        if not candidate.exists():
-            return candidate
-    fail(f"too many posts already exist for {tag} on {datestr}")
+        candidate = f"{tag}{letter}"
+        if candidate not in taken:
+            return POSTS_DIR / f"{datestr}-{candidate}.md"
+    fail(f"too many posts already exist for {tag}")
 
 
 def main():
