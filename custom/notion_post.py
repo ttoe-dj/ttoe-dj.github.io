@@ -3,9 +3,11 @@
 
 Usage:
     python3 custom/notion_post.py '<iframe src="https://.../notion.site/ebd//<id>" ... />'
+    python3 custom/notion_post.py --force '<iframe ...>'   # override duplicate checks
 
 Title comes from the Notion page; tags come from the "Interest:" line inside
-the page's "Intro" toggle; the date is today's local date.
+the page's "Intro" toggle; the date is today's local date. A post is refused
+when its Notion page id or its exact title already appears in _posts/.
 """
 
 import json
@@ -119,37 +121,96 @@ def derive_tag(title):
     return f"{surname}{match.group(2)}"
 
 
-def existing_slugs():
-    slugs = set()
-    for path in POSTS_DIR.iterdir():
-        if not path.name.endswith(".md") or path.name.startswith("._"):
+def post_paths():
+    for path in sorted(POSTS_DIR.rglob("*.md")):
+        parts = path.relative_to(POSTS_DIR).parts
+        if any(part.startswith("._") for part in parts):
             continue
-        match = re.match(r"^\d{4}-\d{2}-\d{2}-(.+)\.md$", path.name)
+        yield path
+
+
+def post_text(path):
+    return path.read_text(encoding="utf-8", errors="replace")
+
+
+def page_ids_in(text):
+    return set(re.findall(r"[0-9a-f]{32}", text.lower()))
+
+
+def find_page_id_posts(page_id):
+    compact = page_id.replace("-", "").lower()
+    return [path for path in post_paths() if compact in page_ids_in(post_text(path))]
+
+
+def post_title(path):
+    text = post_text(path)
+    match = re.search(r"^title:\s*'(.*)'\s*$", text, re.MULTILINE)
+    if match:
+        return match.group(1).replace("''", "'").strip()
+    match = re.search(r"^title:\s*(.+?)\s*$", text, re.MULTILINE)
+    if match:
+        return match.group(1).strip().strip("'\"")
+    return None
+
+
+def find_title_posts(title):
+    return [path for path in post_paths() if post_title(path) == title]
+
+
+def existing_slugs_by_year():
+    taken = set()
+    for path in post_paths():
+        match = re.match(r"^(\d{4})-\d{2}-\d{2}-(.+)\.md$", path.name)
         if match:
-            slugs.add(match.group(1))
-    return slugs
+            taken.add((match.group(1), match.group(2)))
+    return taken
 
 
 def unique_path(tag, datestr):
-    taken = existing_slugs()
-    if tag not in taken:
+    year = datestr[:4]
+    taken = existing_slugs_by_year()
+    if (year, tag) not in taken:
         return POSTS_DIR / f"{datestr}-{tag}.md"
     for letter in "bcdefghijklmnopqrstuvwxyz":
         candidate = f"{tag}{letter}"
-        if candidate not in taken:
+        if (year, candidate) not in taken:
             return POSTS_DIR / f"{datestr}-{candidate}.md"
-    fail(f"too many posts already exist for {tag}")
+    fail(f"too many posts already exist for {tag} in {year}")
+
+
+def describe(paths):
+    return "\n  ".join(str(path.relative_to(POSTS_DIR.parent)) for path in paths)
 
 
 def main():
-    if len(sys.argv) != 2:
-        fail("expected exactly one argument: the Notion <iframe ...> or its URL")
+    arguments = [arg for arg in sys.argv[1:] if arg != "--force"]
+    force = "--force" in sys.argv[1:]
+    if len(arguments) != 1:
+        fail("expected one argument: the Notion <iframe ...> or its URL (add --force to override duplicate checks)")
 
-    iframe = sys.argv[1].strip()
+    iframe = arguments[0].strip()
     page_id = extract_page_id(iframe)
+
+    if not force:
+        duplicates = find_page_id_posts(page_id)
+        if duplicates:
+            fail(
+                "this Notion page is already used by:\n  "
+                + describe(duplicates)
+                + "\n(use --force to create a post anyway)"
+            )
 
     blocks = load_chunk(page_id)
     title = find_title(blocks)
+
+    if not force:
+        duplicates = find_title_posts(title)
+        if duplicates:
+            fail(
+                "a post with the same title already exists:\n  "
+                + describe(duplicates)
+                + "\n(use --force to create a post anyway)"
+            )
 
     interest = find_interest(blocks)
     if interest is None:
