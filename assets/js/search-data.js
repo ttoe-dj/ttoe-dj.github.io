@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-hong-vilenkin-amp-winitzki-2003-quot-particle-creation-in-a-tunneling-universe-ii-massive-particles-quot",
+        },{id: "post-notes-on-fanaras-amp-vilenkin-2023-quantum-cosmology-eternal-inflation-and-swampland-conjectures",
+        
+          title: "Notes on Fanaras &amp; Vilenkin (2023) “Quantum cosmology, eternal inflation, and swampland conjectures”...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Fanaras2023/";
+          
+        },
+      },{id: "post-notes-on-hong-vilenkin-amp-winitzki-2003-quot-particle-creation-in-a-tunneling-universe-ii-massive-particles-quot",
         
           title: "Notes on Hong, Vilenkin, &amp; Winitzki (2003) &quot;Particle creation in a tunneling universe....",
         
