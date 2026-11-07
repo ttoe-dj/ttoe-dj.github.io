@@ -77,6 +77,17 @@ ninja.data = [{
             window.location.href = "/posts/2026/Vilenkin1998/";
           
         },
+      },{id: "post-notes-on-hong-vilenkin-amp-winitzki-2003-quot-particle-creation-in-a-tunneling-universe-i-quot",
+        
+          title: "Notes on Hong, Vilenkin, &amp; Winitzki (2003) &quot;Particle creation in a tunneling universe....",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Hong2003/";
+          
+        },
       },{id: "post-notes-on-wang-yamada-amp-vilenkin-2019-constraints-on-non-minimal-coupling-from-quantum-cosmology",
         
           title: "Notes on Wang, Yamada &amp; Vilenkin (2019) “Constraints on non-minimal coupling from quantum...",
