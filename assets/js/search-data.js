@@ -63,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/posts/2026/Hong2003/";
+            window.location.href = "/posts/2026/Hong2003b/";
           
         },
       },{id: "post-notes-on-vilenkin-1998-quot-singular-instantons-and-the-creation-of-open-universes-quot",
@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/posts/2026/Vilenkin1998/";
+            window.location.href = "/posts/2026/Vilenkin1998b/";
           
         },
       },{id: "post-notes-on-hong-vilenkin-amp-winitzki-2003-quot-particle-creation-in-a-tunneling-universe-i-quot",
