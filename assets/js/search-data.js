@@ -44,7 +44,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-notes-on-fanaras-amp-vilenkin-2023-quantum-cosmology-eternal-inflation-and-swampland-conjectures",
+        },{id: "post-notes-on-vilenkin-amp-yamada-2019-quot-tunneling-wave-function-of-the-universe-ii-the-backreaction-problem-quot",
+        
+          title: "Notes on Vilenkin &amp; Yamada (2019) &quot;Tunneling wave function of the universe II:...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Vilenkin2019/";
+          
+        },
+      },{id: "post-notes-on-hawking-1982-quot-the-boundary-conditions-of-the-universe",
+        
+          title: "Notes on Hawking (1982) &quot;The boundary conditions of the universe”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Hawking1982/";
+          
+        },
+      },{id: "post-notes-on-hartle-amp-hawking-1983-wave-function-of-the-universe",
+        
+          title: "Notes on Hartle &amp; Hawking (1983) “Wave function of the Universe”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Hartle1983/";
+          
+        },
+      },{id: "post-notes-on-garriga-amp-vilenkin-1997-quot-in-defense-of-the-39-tunneling-39-wave-function-of-the-universe-quot",
+        
+          title: "Notes on Garriga &amp; Vilenkin (1997) &quot;In defense of the &#39;tunneling&#39; wave function...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Garriga1997/";
+          
+        },
+      },{id: "post-notes-on-fanaras-amp-vilenkin-2023-quantum-cosmology-eternal-inflation-and-swampland-conjectures",
         
           title: "Notes on Fanaras &amp; Vilenkin (2023) “Quantum cosmology, eternal inflation, and swampland conjectures”...",
         
