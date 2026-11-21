@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Truly Lorentzian quantum cosmology. IV. Kantowski-Sachs
 author: Ding Jia

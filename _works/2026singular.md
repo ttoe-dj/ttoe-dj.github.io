@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: "Singular bouncing black holes: a new paradigm"
 author: Ding Jia

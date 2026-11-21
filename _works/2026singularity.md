@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Singularity and Lorentzianity
 author: Ding Jia

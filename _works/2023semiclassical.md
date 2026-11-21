@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Semiclassical singularity is compatible with quantum singularity avoidance
 author: Ding Jia

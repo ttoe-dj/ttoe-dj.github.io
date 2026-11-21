@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: "Nonsmooth mechanics for cosmology : Biaxial Bianchi IX"
 author: Ding Jia

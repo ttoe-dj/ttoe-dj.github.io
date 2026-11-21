@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Decoherence does not imply branching
 author: Ding Jia

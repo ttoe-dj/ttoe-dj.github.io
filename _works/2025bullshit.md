@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Bullshit in physics - Everett 1957
 author: Ding Jia

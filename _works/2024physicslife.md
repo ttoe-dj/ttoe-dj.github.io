@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Physics, Experience, Life. II. Quantum toy models of life
 author: Ding Jia

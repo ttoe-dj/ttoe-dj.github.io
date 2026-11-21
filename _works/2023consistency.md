@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Consistency issue for anisotropic quantum cosmology?
 author: Ding Jia

@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Experience and temporality in quantum physics
 author: Ding Jia

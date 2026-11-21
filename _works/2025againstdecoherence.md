@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Against decoherence
 author: Ding Jia

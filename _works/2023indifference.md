@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Indifference boundary condition for the universe
 author: Ding Jia

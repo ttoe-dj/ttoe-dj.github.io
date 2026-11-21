@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: A fundamental problem with decoherent histories
 author: Ding Jia

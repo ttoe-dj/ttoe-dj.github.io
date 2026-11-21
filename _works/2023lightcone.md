@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Lightcone constraint in 3D simplicial gravity - method and application to quantum time order
 author: Ding Jia

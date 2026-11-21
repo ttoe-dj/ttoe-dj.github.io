@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Inhomogeneous instability in quantum cosmology?
 author: Ding Jia

@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Lorentzian bouncing quantum cosmology - Bianchi I
 author: Ding Jia

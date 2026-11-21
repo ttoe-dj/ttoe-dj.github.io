@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Living in a quantum universe
 author: Ding Jia

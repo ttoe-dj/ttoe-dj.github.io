@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: 'Against quantum mereology'
 author: Ding Jia

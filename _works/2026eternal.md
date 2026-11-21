@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Eternal Quantum Universe
 author: Ding Jia

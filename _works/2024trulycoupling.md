@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Truly Lorentzian quantum cosmology. III. Scalar field coupling
 author: Ding Jia

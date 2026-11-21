@@ -1,4 +1,4 @@
----    
+---
 layout: work-page
 title: Truly Lorentzian quantum cosmology. II. Exact formula and effective geometries
 author: Ding Jia
