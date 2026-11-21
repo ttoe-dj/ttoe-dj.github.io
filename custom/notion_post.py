@@ -233,7 +233,7 @@ def main():
         "layout: post\n"
         f"title: '{escaped_title}'\n"
         f"date: {datestr}\n"
-        "description: \n"
+        "description:\n"
         f"tags: {tags}\n"
         "categories: notes\n"
         "external: true\n"

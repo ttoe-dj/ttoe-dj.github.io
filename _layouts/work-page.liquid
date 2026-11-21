@@ -46,9 +46,7 @@ layout: default
       <figure class="empty-review">
         {% if page.cover %}
           <img class="empty-review-cover" alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
-          <figcaption class="empty-review-caption">
-            
-          </figcaption>
+          <figcaption class="empty-review-caption"></figcaption>
         {% endif %}
       </figure>
       {% assign status = page.status | upcase %}
@@ -59,9 +57,7 @@ layout: default
       <figure>
         {% if page.cover %}
           <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/{{ page.cover }}">
-          <figcaption>
-            
-          </figcaption>
+          <figcaption></figcaption>
         {% endif %}
       </figure>
       <br class="mobile-break" clear="right">
@@ -81,7 +77,7 @@ layout: default
 <style>
   figure {
     float: none;
-    width: fit-content;  /* Ensures figure's width is determined by its content */
+    width: fit-content; /* Ensures figure's width is determined by its content */
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -123,7 +119,7 @@ layout: default
 
     figure {
       float: right;
-      width: fit-content;  /* Ensures figure's width is determined by its content */
+      width: fit-content; /* Ensures figure's width is determined by its content */
       display: in-line block;
       margin: 0px 0px 0px 0px;
       padding: 0px 0px 0px 20px;

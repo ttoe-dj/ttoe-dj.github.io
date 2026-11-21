@@ -10,5 +10,7 @@ Gemfile.lock
 assets/libs/
 node_modules/
 vendor
-.idea._*
+.idea/
+._*
+__pycache__/
 .DS_Store

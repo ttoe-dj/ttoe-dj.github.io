@@ -2,7 +2,7 @@
 **/*.min.css
 **/*.min.js
 assets/css/main.scss
-assets/js/distillpub/template.v2.js
+assets/js/distillpub/*.v2.js
 assets/js/search/*.js
 assets/plotly/demo.html
 lighthouse_results/**
@@ -10,3 +10,11 @@ _posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
 _scripts/*
+._*
+_posts/**
+_works/**
+_projects/**
+_pages/**
+test/**
+_config.yml
+assets/json/resume.json
