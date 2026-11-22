@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/posts/2026/Vilenkin2019/";
           
         },
+      },{id: "post-notes-on-hawking-1984-the-quantum-state-of-the-universe",
+        
+          title: "Notes on Hawking (1984) “The quantum state of the universe”",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/Hawking1984/";
+          
+        },
       },{id: "post-notes-on-hawking-1982-quot-the-boundary-conditions-of-the-universe",
         
           title: "Notes on Hawking (1982) &quot;The boundary conditions of the universe”",
